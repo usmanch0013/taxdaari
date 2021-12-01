@@ -1,0 +1,3771 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Elementor Addon Components\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-20 14:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-4.9.8"
+
+#: widgets/chart.php:435 widgets/chart.php:436
+msgid " %"
+msgstr ""
+
+#: includes/proxy/proxy_explore.php:338 includes/proxy/proxy_location.php:348
+#: includes/proxy/proxy_user.php:269
+msgid " articles en "
+msgstr ""
+
+#: includes/proxy/proxy_explore.php:226 includes/proxy/proxy_explore.php:310
+#: includes/proxy/proxy_explore.php:338 includes/proxy/proxy_location.php:213
+#: includes/proxy/proxy_location.php:288 includes/proxy/proxy_location.php:348
+#: includes/proxy/proxy_taggedposts.php:58 includes/proxy/proxy_user.php:169
+#: includes/proxy/proxy_user.php:269
+msgid " jours"
+msgstr ""
+
+#: widgets/chart.php:253 widgets/chart.php:254
+msgid " €"
+msgstr ""
+
+#: widgets/instagram-explore.php:774 widgets/instagram-user.php:731
+msgid "#Nuage de tags"
+msgstr ""
+
+#: widgets/table-of-contents.php:206
+msgid "'toc-heading-anchor-X' sinon le titre est utilisé"
+msgstr ""
+
+#: widgets/acf-relationship.php:173 widgets/articles-liste.php:459
+msgid "-1 = Tous"
+msgstr ""
+
+#: widgets/off-canvas.php:273
+msgid "0 = Tous"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/author-picture.php:48
+#: includes/elementor/dynamic-tags/tags/user-picture.php:48
+msgid "120"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/author-picture.php:49
+#: includes/elementor/dynamic-tags/tags/user-picture.php:49
+msgid "140"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/author-picture.php:46
+#: includes/elementor/dynamic-tags/tags/user-picture.php:46
+msgid "80"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/author-picture.php:47
+#: includes/elementor/dynamic-tags/tags/user-picture.php:47
+msgid "96"
+msgstr ""
+
+#: widgets/kenburn-slider.php:117
+msgid ""
+"<b>Les images doivent être de mêmes dimensions.<br>Le container (Section - "
+"Largeur du contenu) doit être plus petit que les images !!</b>"
+msgstr ""
+
+#: widgets/reseaux-sociaux.php:107
+msgid "<b>Partager cette page/article avec les réseaux sociaux.</b>"
+msgstr ""
+
+#: widgets/image-diaporama.php:115
+msgid ""
+"<label style=\"color:#d5dadf; font-size:12px; font-style:italic;\">Attention."
+" Six images, pas plus pas moins.</label>"
+msgstr ""
+
+#: widgets/syntax-highlighter.php:212
+msgid ""
+"<span style=\"font-size:11px;font-style:italic;color:#B7B2B2;line-height:1."
+"4em\">Ne modifier pas la taille de la fonte si les numéros de ligne sont "
+"affichés</span>"
+msgstr ""
+
+#: widgets/instagram-search.php:234
+msgid "<span style=\"text-decoration:underline;\">Lieu</span>"
+msgstr ""
+
+#: widgets/instagram-search.php:203
+msgid "<span style=\"text-decoration:underline;\">Mot-dièse</span>"
+msgstr ""
+
+#: widgets/instagram-search.php:135
+msgid "<span style=\"text-decoration:underline;\">Utilisateur</span>"
+msgstr ""
+
+#: includes/elementor/injection/eac-injection-sticky.php:151
+msgid ""
+"<strong>Attention:</strong> La zone de déplacement est à l'intérieur du "
+"conteneur parent. Section: viewport. Colonne & Widget: section."
+msgstr ""
+
+#: widgets/articles-liste.php:486
+msgid ""
+"<strong>Pagination:</strong> Dans l'éditeur, vous devez systématiquement "
+"enregistrer la page pour voir les modifications apportées au widget"
+msgstr ""
+
+#: widgets/site-thumbnail.php:141
+msgid ""
+"<strong>SAMEORIGIN:</strong> Certains sites interdisent le chargement de la "
+"ressource dans une iframe en dehors de leur domaine."
+msgstr ""
+
+#: widgets/instagram-user.php:726
+msgid "@Mentions"
+msgstr ""
+
+#: widgets/chart.php:184
+msgid "Abscisse (X)"
+msgstr ""
+
+#: widgets/chart.php:194
+msgid "Abscisses"
+msgstr ""
+
+#: includes/proxy/proxy_rss.php:140
+msgid "Accès refusé."
+msgstr ""
+
+#: includes/elementor/dynamic-tags/acf/eac-acf-tags.php:53
+msgid "ACF"
+msgstr ""
+
+#: admin/settings/eac-components_tab2.php:15
+msgid "ACF Balises Dynamiques"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/acf/tags/acf-field-keys.php:32
+msgid "ACF Clés des champs"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/acf/tags/acf-field-color.php:33
+msgid "ACF Couleur"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/acf/tags/acf-field-group-color.php:34
+msgid "ACF Groupe Couleur"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/acf/tags/acf-field-group-image.php:34
+msgid "ACF Groupe Image"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/acf/tags/acf-field-group-number.php:33
+msgid "ACF Groupe Nombre"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/acf/tags/acf-field-group-text.php:35
+msgid "ACF Groupe Texte"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/acf/tags/acf-field-group-url.php:33
+msgid "ACF Groupe Url"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/acf/tags/acf-field-image.php:34
+msgid "ACF Image"
+msgstr ""
+
+#: admin/settings/eac-components_tab2.php:71
+msgid "ACF JSON"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/acf/tags/acf-field-number.php:32
+msgid "ACF Nombre"
+msgstr ""
+
+#: includes/acf/options-page/eac-acf-options-page.php:422
+#: includes/acf/options-page/eac-acf-options-page.php:423
+msgid "ACF Options"
+msgstr ""
+
+#: admin/settings/eac-components_tab2.php:41
+msgid "ACF Page d'Options"
+msgstr ""
+
+#: includes/acf/options-page/eac-acf-options-page.php:469
+msgid "ACF Pages d'Options"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/acf/tags/acf-field-relational.php:51
+msgid "ACF Relational"
+msgstr ""
+
+#: widgets/acf-relationship.php:52
+msgid "ACF Relationship"
+msgstr ""
+
+#: admin/settings/eac-components_tab1.php:27
+msgid "ACF relationship"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/acf/tags/acf-field-text.php:36
+msgid "ACF Texte"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/acf/tags/acf-field-url.php:33
+msgid "ACF Url"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/acf/tags/acf-field-values.php:38
+msgid "ACF Valeurs des champs"
+msgstr ""
+
+#: includes/elementor/injection/eac-injection-sticky.php:159
+msgid "Actif avec"
+msgstr ""
+
+#: widgets/modal-box.php:472
+msgid "Actif dans l'éditeur"
+msgstr ""
+
+#: admin/settings/eac-components_tab1.php:7
+msgid "Active/Désactive tous les composants"
+msgstr ""
+
+#: includes/elementor/injection/eac-injection-sticky.php:138
+msgid "Activer l'effect sticky"
+msgstr ""
+
+#: widgets/off-canvas.php:172
+msgid "Activer l'overlay"
+msgstr ""
+
+#: widgets/image-galerie.php:338
+msgid "Activer le mode Metro"
+msgstr ""
+
+#: widgets/acf-relationship.php:487 widgets/articles-liste.php:957
+#: widgets/image-galerie.php:668
+msgid "Activer le ratio image"
+msgstr ""
+
+#: widgets/instagram-search.php:251
+msgid "Adresse"
+msgstr ""
+
+#: widgets/articles-liste.php:508 widgets/html-sitemap.php:462
+#: widgets/html-sitemap.php:582
+msgid "Affichage"
+msgstr ""
+
+#: widgets/image-promotion.php:514
+msgid "Afficher"
+msgstr ""
+
+#: widgets/chart.php:670
+msgid "Afficher en pourcentage"
+msgstr ""
+
+#: widgets/modal-box.php:168
+msgid "Afficher l'entête"
+msgstr ""
+
+#: widgets/html-sitemap.php:374 widgets/html-sitemap.php:494
+msgid "Afficher la date"
+msgstr ""
+
+#: widgets/kenburn-slider.php:174
+msgid "Afficher la navigation."
+msgstr ""
+
+#: widgets/articles-liste.php:395
+msgid "Afficher la requête"
+msgstr ""
+
+#: widgets/html-sitemap.php:242
+msgid "Afficher le nom complet"
+msgstr ""
+
+#: widgets/html-sitemap.php:231 widgets/html-sitemap.php:318
+#: widgets/html-sitemap.php:385
+msgid "Afficher le nombre d'articles"
+msgstr ""
+
+#: widgets/html-sitemap.php:396 widgets/html-sitemap.php:505
+msgid "Afficher le nombre de commentaires"
+msgstr ""
+
+#: widgets/slider-pro.php:654
+msgid "Afficher le pointer"
+msgstr ""
+
+#: widgets/slider-pro.php:208
+msgid "Afficher le texte"
+msgstr ""
+
+#: widgets/slider-pro.php:197
+msgid "Afficher le titre"
+msgstr ""
+
+#: widgets/html-sitemap.php:516
+msgid "Afficher les catégories"
+msgstr ""
+
+#: widgets/articles-liste.php:234 widgets/image-galerie.php:469
+msgid "Afficher les filtres"
+msgstr ""
+
+#: widgets/articles-liste.php:420 widgets/html-sitemap.php:430
+#: widgets/html-sitemap.php:550
+msgid "Afficher les IDs"
+msgstr ""
+
+#: widgets/image-hotspots.php:524
+msgid "Afficher les infobulles"
+msgstr ""
+
+#: widgets/slider-pro.php:248
+msgid "Afficher les slides 'Suivant' et 'Précédent'."
+msgstr ""
+
+#: widgets/chart.php:535
+msgid "Afficher les valeurs"
+msgstr ""
+
+#: includes/acf/options-page/eac-acf-options-page.php:428
+msgid "Ajouter"
+msgstr ""
+
+#: widgets/html-sitemap.php:407 widgets/html-sitemap.php:527
+msgid "Ajouter 'nofollow' aux liens"
+msgstr ""
+
+#. Description of the plugin
+#: admin/settings/eac-components_header.php:8
+msgid ""
+"Ajouter des composants et des fonctionnalités avancées pour la version "
+"gratuite d'Elementor"
+msgstr ""
+
+#: widgets/kenburn-slider.php:108
+msgid "Ajouter des images"
+msgstr ""
+
+#: widgets/site-thumbnail.php:147
+msgid "Ajouter le lien vers le site"
+msgstr ""
+
+#: widgets/table-of-contents.php:219
+msgid "Ajouter un numéro de rang"
+msgstr ""
+
+#: widgets/image-promotion.php:132 widgets/modal-box.php:307
+#: widgets/off-canvas.php:377
+msgid "Ajouter un pictogramme"
+msgstr ""
+
+#: widgets/image-promotion.php:438
+msgid "Ajouter un ruban"
+msgstr ""
+
+#: widgets/chart.php:238 widgets/chart.php:421
+msgid "Ajouter un suffixe"
+msgstr ""
+
+#: widgets/image-promotion.php:121
+msgid "Ajouter une image"
+msgstr ""
+
+#: widgets/chart.php:306
+msgid "Ajouter une ligne (Section suivante)"
+msgstr ""
+
+#: widgets/site-thumbnail.php:159
+msgid "Ajouter une légende"
+msgstr ""
+
+#: includes/acf/options-page/eac-acf-options-page.php:430
+msgid "Ajouter une Page d'Options"
+msgstr ""
+
+#: includes/elementor/custom-attributes/eac-custom-attributes.php:64
+msgid "Ajouter vos attributs"
+msgstr ""
+
+#: includes/elementor/custom-css/eac-custom-css.php:65
+msgid "Ajoutez votre propre CSS"
+msgstr ""
+
+#: widgets/acf-relationship.php:309 widgets/articles-liste.php:250
+#: widgets/html-sitemap.php:706 widgets/image-effects.php:329
+#: widgets/image-galerie.php:482 widgets/image-hotspots.php:158
+#: widgets/image-hotspots.php:649 widgets/image-promotion.php:181
+#: widgets/image-promotion.php:542 widgets/image-promotion.php:660
+#: widgets/image-ribbon.php:170 widgets/image-ronde.php:131
+#: widgets/modal-box.php:426 widgets/off-canvas.php:341
+#: widgets/off-canvas.php:437 widgets/table-of-contents.php:282
+msgid "Alignement"
+msgstr ""
+
+#: widgets/chart.php:409
+msgid "Aligner les échelles"
+msgstr ""
+
+#: widgets/off-canvas.php:265
+#, php-format
+msgid ""
+"Aller à <a href=\"%s\" target=\"_blank\">Apparence/Menus</a> pour gérer vos "
+"menus."
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/featured-image-data.php:55
+msgid "Alt"
+msgstr ""
+
+#: admin/settings/eac-components_tab2.php:62
+msgid "ALT Attribut"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/featured-image.php:43
+#: includes/elementor/dynamic-tags/tags/site-logo.php:42
+#: includes/elementor/dynamic-tags/acf/tags/acf-field-group-image.php:63
+#: includes/elementor/dynamic-tags/acf/tags/acf-field-image.php:63
+msgid "Alternative"
+msgstr ""
+
+#: widgets/table-of-contents.php:205
+msgid "Ancre générée automatiquement"
+msgstr ""
+
+#: widgets/table-of-contents.php:197
+msgid "Ancres"
+msgstr ""
+
+#: widgets/image-ronde.php:341 widgets/modal-box.php:918
+msgid "Animation"
+msgstr ""
+
+#: widgets/image-ribbon.php:293
+msgid "Animation de survol"
+msgstr ""
+
+#: widgets/slider-pro.php:221
+msgid "Animation Titre/Texte"
+msgstr ""
+
+#: widgets/html-sitemap.php:335
+msgid "Annuelle"
+msgstr ""
+
+#: widgets/modal-box.php:335 widgets/off-canvas.php:406
+msgid "Après"
+msgstr ""
+
+#: widgets/html-sitemap.php:810
+msgid "Archive"
+msgstr ""
+
+#: widgets/html-sitemap.php:310
+msgid "Archives"
+msgstr ""
+
+#: widgets/modal-box.php:566
+msgid "Arrière-plan"
+msgstr ""
+
+#: widgets/html-sitemap.php:888
+#: includes/elementor/dynamic-tags/eac-dynamic-tags.php:58
+msgid "Article"
+msgstr ""
+
+#: widgets/html-sitemap.php:486
+#: includes/elementor/dynamic-tags/tags/site-stats.php:61
+#: includes/elementor/dynamic-tags/tags/url-post.php:32
+msgid "Articles"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/url-cpt.php:36
+msgid "Articles personnalisés"
+msgstr ""
+
+#: widgets/instagram-user.php:759
+msgid "Articles qui identifient ce compte"
+msgstr ""
+
+#: widgets/off-canvas.php:1077
+msgid "Articles récents"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/url-cpt.php:54
+#: includes/elementor/dynamic-tags/tags/url-post.php:50
+msgid "Articles Url"
+msgstr ""
+
+#: widgets/articles-liste.php:511 widgets/html-sitemap.php:465
+#: widgets/html-sitemap.php:585
+msgid "Ascendant"
+msgstr ""
+
+#: widgets/articles-liste.php:213
+msgid "Associées au type d'article"
+msgstr ""
+
+#: widgets/articles-liste.php:226
+msgid "Associées aux catégories"
+msgstr ""
+
+#: widgets/lecteur-audio.php:111
+msgid ""
+"Atlas des flux audio des radios de langue Française - <a href='http:"
+"//fluxradios.blogspot.com/' target='_blank' rel='nofolow'>Consulter ce "
+"site</a>"
+msgstr ""
+
+#: widgets/lecteur-rss.php:121
+msgid ""
+"Atlas des flux RSS des journaux de langue Française - <a href='http:"
+"//atlasflux.saynete.net/' target='_blank' rel='nofolow'>Consulter ce site</a>"
+msgstr ""
+
+#: widgets/modal-box.php:404
+msgid "Attachement"
+msgstr ""
+
+#: widgets/articles-liste.php:749 widgets/articles-liste.php:764
+msgid "Attention à la dimension des images. (Contenu)"
+msgstr ""
+
+#: widgets/kenburn-slider.php:186
+msgid "Attribut 'ALT' ou 'Légende' de l'image"
+msgstr ""
+
+#: widgets/image-galerie.php:155
+#: includes/elementor/injection/eac-injection-image.php:64
+#: includes/elementor/injection/eac-injection-image.php:100
+msgid "Attribut ALT"
+msgstr ""
+
+#: admin/settings/eac-components_tab2.php:31
+msgid "Attributs Personnalisés"
+msgstr ""
+
+#: widgets/modal-box.php:894
+msgid "Au Survol"
+msgstr ""
+
+#: widgets/image-effects.php:194 widgets/image-promotion.php:394
+#: widgets/image-ronde.php:225
+msgid "Aucun"
+msgstr ""
+
+#: widgets/articles-liste.php:1453
+msgid "Aucun article à charger"
+msgstr ""
+
+#: widgets/modal-box.php:403
+msgid "Aucune"
+msgstr ""
+
+#: widgets/articles-liste.php:575 widgets/html-sitemap.php:732
+#: includes/eac-tools.php:696
+#: includes/elementor/dynamic-tags/eac-dynamic-tags.php:57
+msgid "Auteur"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/author-social-network.php:30
+msgid "Auteur réseaux sociaux"
+msgstr ""
+
+#: widgets/html-sitemap.php:223
+#: includes/elementor/dynamic-tags/tags/post-by-user.php:29
+msgid "Auteurs"
+msgstr ""
+
+#: widgets/modal-box.php:334 widgets/off-canvas.php:405
+msgid "Avant"
+msgstr ""
+
+#: widgets/articles-liste.php:1022
+msgid "Avatar"
+msgstr ""
+
+#: widgets/articles-liste.php:609
+msgid "Avatar de l'auteur"
+msgstr ""
+
+#: widgets/chart.php:387
+msgid "Axe de droite"
+msgstr ""
+
+#: widgets/table-of-contents.php:177
+msgid "Balises de titre"
+msgstr ""
+
+#: admin/settings/eac-components_tab2.php:7
+msgid "Balises Dynamiques"
+msgstr ""
+
+#: widgets/articles-liste.php:287
+msgid "Balises dynamiques 'Article/Auteurs'"
+msgstr ""
+
+#: widgets/articles-liste.php:313
+msgid ""
+"Balises dynamiques 'Article|ACF Clés' ou entrer la clé dans le champ "
+"(sensible à la casse)."
+msgstr ""
+
+#: widgets/articles-liste.php:354
+msgid ""
+"Balises dynamiques 'Article|ACF Valeurs' ou entrer les valeurs dans le champ "
+"(insensible à la casse) et utiliser le pipe '|' comme séparateur."
+msgstr ""
+
+#: widgets/chart.php:167
+msgid "Barre"
+msgstr ""
+
+#: widgets/chart.php:168
+msgid "Barre horizontale"
+msgstr ""
+
+#: admin/settings/eac-components_tab1.php:65 widgets/off-canvas.php:52
+msgid "Barre latérale"
+msgstr ""
+
+#: widgets/image-effects.php:297 widgets/image-hotspots.php:359
+#: widgets/off-canvas.php:159 widgets/slider-pro.php:231
+msgid "Bas"
+msgstr ""
+
+#: widgets/kenburn-slider.php:219
+msgid "Bas Droit"
+msgstr ""
+
+#: widgets/modal-box.php:556
+msgid "Bas droite"
+msgstr ""
+
+#: widgets/kenburn-slider.php:220
+msgid "Bas Gauche"
+msgstr ""
+
+#: widgets/modal-box.php:555
+msgid "Bas gauche"
+msgstr ""
+
+#: widgets/instagram-explore.php:445 widgets/instagram-location.php:360
+#: widgets/instagram-user.php:434
+msgid "Basse (480px)"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/author-info.php:58
+#: includes/elementor/dynamic-tags/tags/user-info.php:61
+msgid "Bio"
+msgstr ""
+
+#: widgets/modal-box.php:362 widgets/off-canvas.php:332
+msgid "Bloc"
+msgstr ""
+
+#: widgets/image-promotion.php:374 widgets/image-promotion.php:728
+#: widgets/modal-box.php:283 widgets/off-canvas.php:305
+msgid "Bouton"
+msgstr ""
+
+#: widgets/articles-liste.php:552
+msgid "Bouton 'En savoir plus'"
+msgstr ""
+
+#: widgets/off-canvas.php:365
+msgid "Bouton collant"
+msgstr ""
+
+#: widgets/modal-box.php:752 widgets/off-canvas.php:807
+msgid "Bouton déclencheur"
+msgstr ""
+
+#: admin/settings/eac-components_tab1.php:58 widgets/modal-box.php:58
+#: widgets/modal-box.php:490
+msgid "Boîte modale"
+msgstr ""
+
+#: widgets/image-diaporama.php:185
+msgid "Cacher le calque"
+msgstr ""
+
+#: widgets/off-canvas.php:1074
+msgid "Calendrier"
+msgstr ""
+
+#: widgets/image-effects.php:284
+msgid "Calque"
+msgstr ""
+
+#: widgets/chart.php:170
+msgid "Camembert"
+msgstr ""
+
+#: widgets/articles-liste.php:331
+msgid "Caractère"
+msgstr ""
+
+#: widgets/image-promotion.php:285 widgets/image-promotion.php:304
+#: widgets/image-promotion.php:631
+msgid "Caractéristiques"
+msgstr ""
+
+#: admin/settings/eac-components_tab1.php:143
+msgid "Carrousel avec effet Ken Burn"
+msgstr ""
+
+#: admin/settings/eac-components_tab1.php:41
+msgid "Carrousel d'images"
+msgstr ""
+
+#: widgets/kenburn-slider.php:43
+msgid "Carrousel Ken Burn"
+msgstr ""
+
+#: widgets/instagram-explore.php:447 widgets/instagram-location.php:362
+#: widgets/instagram-user.php:436
+msgid "Carré (640x640)"
+msgstr ""
+
+#: widgets/image-promotion.php:532
+msgid "Carrée"
+msgstr ""
+
+#: widgets/off-canvas.php:1083
+#: includes/elementor/dynamic-tags/tags/site-stats.php:68
+msgid "Catégories"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/site-stats.php:71
+msgid "Catégories Elementor"
+msgstr ""
+
+#: widgets/acf-relationship.php:317 widgets/articles-liste.php:258
+#: widgets/html-sitemap.php:714 widgets/image-effects.php:296
+#: widgets/image-effects.php:337 widgets/image-galerie.php:490
+#: widgets/image-hotspots.php:166 widgets/image-hotspots.php:662
+#: widgets/image-promotion.php:189 widgets/image-promotion.php:550
+#: widgets/image-promotion.php:668 widgets/image-ribbon.php:178
+#: widgets/image-ronde.php:139 widgets/modal-box.php:434
+#: widgets/off-canvas.php:349 widgets/off-canvas.php:445
+#: widgets/slider-pro.php:230 widgets/table-of-contents.php:295
+msgid "Centre"
+msgstr ""
+
+#: elementor-addon-components.php:145
+msgid "Centre d'aide"
+msgstr ""
+
+#: admin/settings/eac-admin_popup-acf.php:7
+msgid ""
+"Cette fonctionnalité va créer le dossier 'acf-json' dans le plugin s'il "
+"n'existe pas dans le thème courant."
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/author-info.php:52
+#: includes/elementor/dynamic-tags/tags/user-info.php:51
+#: includes/elementor/dynamic-tags/acf/tags/acf-field-color.php:53
+#: includes/elementor/dynamic-tags/acf/tags/acf-field-group-color.php:54
+#: includes/elementor/dynamic-tags/acf/tags/acf-field-group-image.php:54
+#: includes/elementor/dynamic-tags/acf/tags/acf-field-group-number.php:54
+#: includes/elementor/dynamic-tags/acf/tags/acf-field-group-text.php:55
+#: includes/elementor/dynamic-tags/acf/tags/acf-field-group-url.php:53
+#: includes/elementor/dynamic-tags/acf/tags/acf-field-image.php:54
+#: includes/elementor/dynamic-tags/acf/tags/acf-field-number.php:53
+#: includes/elementor/dynamic-tags/acf/tags/acf-field-relational.php:71
+#: includes/elementor/dynamic-tags/acf/tags/acf-field-text.php:56
+#: includes/elementor/dynamic-tags/acf/tags/acf-field-url.php:53
+msgid "Champ"
+msgstr ""
+
+#: widgets/acf-relationship.php:152
+msgid "Champ relationnel"
+msgstr ""
+
+#: includes/acf/options-page/eac-acf-options-page.php:486
+#: includes/elementor/dynamic-tags/tags/author-social-network.php:51
+msgid "Champs"
+msgstr ""
+
+#: admin/settings/eac-components.php:246 admin/settings/eac-components.php:306
+msgid "Champs non retournés"
+msgstr ""
+
+#: includes/acf/options-page/eac-acf-options-page.php:433
+msgid "Chercher dans les Pages d'Options"
+msgstr ""
+
+#: widgets/image-effects.php:116 widgets/image-promotion.php:167
+#: widgets/image-ribbon.php:147 widgets/image-ronde.php:118
+msgid "Choix de l'image"
+msgstr ""
+
+#: widgets/image-effects.php:229 widgets/image-promotion.php:154
+#: widgets/image-ronde.php:287
+msgid "Choix du pictogramme"
+msgstr ""
+
+#: widgets/syntax-highlighter.php:193
+msgid "Choix du thème"
+msgstr ""
+
+#: widgets/table-of-contents.php:159
+msgid "Cible"
+msgstr ""
+
+#: widgets/table-of-contents.php:161
+msgid "Cible de l'analyse"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/author-info.php:68
+#: includes/elementor/dynamic-tags/tags/post-by-user.php:50
+#: includes/elementor/dynamic-tags/tags/post-custom-field-keys.php:65
+#: includes/elementor/dynamic-tags/tags/post-custom-field-values.php:74
+#: includes/elementor/dynamic-tags/tags/post-elementor-tmpl.php:63
+#: includes/elementor/dynamic-tags/tags/post-elementor-tmpl.php:73
+#: includes/elementor/dynamic-tags/tags/site-server.php:54
+#: includes/elementor/dynamic-tags/tags/user-info.php:71
+#: includes/elementor/dynamic-tags/acf/tags/acf-field-keys.php:63
+msgid "Clé"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/post-custom-field-keys.php:34
+msgid "Clés des champs personnalisés"
+msgstr ""
+
+#: includes/elementor/custom-attributes/eac-custom-attributes.php:66
+msgid "Clé|Valeur"
+msgstr ""
+
+#: widgets/syntax-highlighter.php:159
+msgid "Code"
+msgstr ""
+
+#: widgets/site-thumbnail.php:126
+msgid "Coller l'URL complète/relative du site"
+msgstr ""
+
+#: widgets/site-thumbnail.php:174
+msgid "Coller la légende"
+msgstr ""
+
+#: admin/settings/eac-components_tab1.php:82 widgets/syntax-highlighter.php:55
+msgid "Coloration syntaxique"
+msgstr ""
+
+#: widgets/image-diaporama.php:160
+msgid "Com-pos-ition"
+msgstr ""
+
+#: widgets/articles-liste.php:597 widgets/instagram-explore.php:352
+#: widgets/instagram-location.php:267 widgets/instagram-user.php:319
+#: includes/elementor/dynamic-tags/tags/site-stats.php:66
+msgid "Commentaires"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/site-stats.php:67
+msgid "Commentaires en attente"
+msgstr ""
+
+#: widgets/images-comparison.php:49
+msgid "Comparaison d'images"
+msgstr ""
+
+#: admin/settings/eac-components_tabs-nav.php:3
+msgid "Composants"
+msgstr ""
+
+#: widgets/instagram-search.php:179 includes/proxy/proxy_search.php:68
+msgid "Compte privé"
+msgstr ""
+
+#: includes/proxy/proxy_search.php:68
+msgid "Compte public"
+msgstr ""
+
+#: widgets/instagram-user.php:112
+msgid "Comptes utilisateur Instagram"
+msgstr ""
+
+#: widgets/instagram-user.php:758
+msgid "Comptes utilisateurs suggérés"
+msgstr ""
+
+#: admin/settings/eac-admin_popup-acf.php:11
+msgid ""
+"Consulter la <a href='https://www.advancedcustomfields.com/resources/local-"
+"json/' target='_autre'>documentation officielle</a>"
+msgstr ""
+
+#: widgets/acf-relationship.php:194 widgets/articles-liste.php:522
+#: widgets/chart.php:482 widgets/html-sitemap.php:150
+#: widgets/image-hotspots.php:372 widgets/image-hotspots.php:618
+#: widgets/instagram-explore.php:316 widgets/instagram-location.php:231
+#: widgets/instagram-search.php:110 widgets/instagram-user.php:295
+#: widgets/lecteur-rss.php:424 widgets/modal-box.php:160
+#: widgets/off-canvas.php:185 widgets/pinterest-rss.php:418
+#: widgets/syntax-highlighter.php:117 widgets/table-of-contents.php:234
+msgid "Contenu"
+msgstr ""
+
+#: widgets/modal-box.php:717
+msgid "Contenu boîte modale"
+msgstr ""
+
+#: widgets/image-hotspots.php:374
+msgid "Contenu de l'infobulle"
+msgstr ""
+
+#: widgets/off-canvas.php:590
+msgid "Contenu menu"
+msgstr ""
+
+#: widgets/off-canvas.php:647
+msgid "Contenu texte"
+msgstr ""
+
+#: widgets/off-canvas.php:697
+msgid "Contenu widget"
+msgstr ""
+
+#: widgets/slider-pro.php:580
+msgid "Control flèches"
+msgstr ""
+
+#: widgets/slider-pro.php:615
+msgid "Control miniatures"
+msgstr ""
+
+#: widgets/slider-pro.php:331
+msgid "Controls"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/cookies.php:30
+msgid "Cookies"
+msgstr ""
+
+#: widgets/chart.php:137
+msgid "Copier/Coller le chemin absolu du fichier: Format JSON"
+msgstr ""
+
+#: widgets/acf-relationship.php:553 widgets/acf-relationship.php:585
+#: widgets/acf-relationship.php:619 widgets/articles-liste.php:861
+#: widgets/articles-liste.php:912 widgets/articles-liste.php:1108
+#: widgets/articles-liste.php:1142 widgets/html-sitemap.php:649
+#: widgets/html-sitemap.php:681 widgets/image-diaporama.php:280
+#: widgets/image-effects.php:354 widgets/image-effects.php:404
+#: widgets/image-effects.php:458 widgets/image-galerie.php:595
+#: widgets/image-galerie.php:634 widgets/image-galerie.php:735
+#: widgets/image-hotspots.php:422 widgets/image-hotspots.php:461
+#: widgets/image-hotspots.php:624 widgets/image-promotion.php:481
+#: widgets/image-promotion.php:581 widgets/image-promotion.php:607
+#: widgets/image-promotion.php:638 widgets/image-ribbon.php:310
+#: widgets/image-ronde.php:371 widgets/image-ronde.php:424
+#: widgets/instagram-explore.php:642 widgets/instagram-explore.php:686
+#: widgets/instagram-location.php:546 widgets/instagram-location.php:580
+#: widgets/instagram-search.php:363 widgets/instagram-search.php:397
+#: widgets/instagram-user.php:601 widgets/instagram-user.php:635
+#: widgets/lecteur-rss.php:608 widgets/lecteur-rss.php:640
+#: widgets/lecteur-rss.php:672 widgets/modal-box.php:725
+#: widgets/modal-box.php:760 widgets/modal-box.php:939
+#: widgets/modal-box.php:994 widgets/off-canvas.php:549
+#: widgets/off-canvas.php:655 widgets/off-canvas.php:829
+#: widgets/off-canvas.php:903 widgets/pinterest-rss.php:584
+#: widgets/pinterest-rss.php:616 widgets/pinterest-rss.php:647
+#: widgets/site-thumbnail.php:233 widgets/slider-pro.php:464
+#: widgets/slider-pro.php:537 widgets/slider-pro.php:599
+msgid "Couleur"
+msgstr ""
+
+#: widgets/chart.php:634
+msgid "Couleur de la grille"
+msgstr ""
+
+#: widgets/table-of-contents.php:363
+msgid "Couleur des entrées"
+msgstr ""
+
+#: widgets/html-sitemap.php:753 widgets/html-sitemap.php:792
+#: widgets/html-sitemap.php:831 widgets/html-sitemap.php:870
+#: widgets/html-sitemap.php:909
+msgid "Couleur des pictogrammes"
+msgstr ""
+
+#: widgets/chart.php:619
+msgid "Couleur des étiquettes"
+msgstr ""
+
+#: widgets/modal-box.php:633
+msgid "Couleur du bouton de fermeture"
+msgstr ""
+
+#: widgets/articles-liste.php:837 widgets/chart.php:558
+#: widgets/html-sitemap.php:740 widgets/html-sitemap.php:779
+#: widgets/html-sitemap.php:818 widgets/html-sitemap.php:857
+#: widgets/html-sitemap.php:896 widgets/image-effects.php:370
+#: widgets/image-galerie.php:572 widgets/image-hotspots.php:484
+#: widgets/image-hotspots.php:564 widgets/image-promotion.php:704
+#: widgets/image-promotion.php:747 widgets/image-promotion.php:825
+#: widgets/image-ribbon.php:248 widgets/image-ribbon.php:322
+#: widgets/images-comparison.php:251 widgets/instagram-explore.php:552
+#: widgets/instagram-explore.php:611 widgets/instagram-location.php:467
+#: widgets/instagram-location.php:515 widgets/instagram-search.php:341
+#: widgets/instagram-user.php:524 widgets/instagram-user.php:570
+#: widgets/lecteur-audio.php:249 widgets/lecteur-rss.php:587
+#: widgets/modal-box.php:698 widgets/modal-box.php:783
+#: widgets/modal-box.php:962 widgets/off-canvas.php:572
+#: widgets/off-canvas.php:637 widgets/off-canvas.php:796
+#: widgets/off-canvas.php:852 widgets/off-canvas.php:926
+#: widgets/pinterest-rss.php:563 widgets/slider-pro.php:408
+#: widgets/slider-pro.php:480 widgets/slider-pro.php:554
+#: widgets/syntax-highlighter.php:228 widgets/table-of-contents.php:341
+#: widgets/table-of-contents.php:386
+msgid "Couleur du fond"
+msgstr ""
+
+#: widgets/off-canvas.php:735
+msgid "Couleur du fond du titre"
+msgstr ""
+
+#: widgets/off-canvas.php:766
+msgid "Couleur du lien au survol"
+msgstr ""
+
+#: widgets/image-promotion.php:692 widgets/image-promotion.php:735
+#: widgets/image-promotion.php:812 widgets/image-ribbon.php:233
+#: widgets/images-comparison.php:235 widgets/off-canvas.php:598
+#: widgets/off-canvas.php:745
+msgid "Couleur du texte"
+msgstr ""
+
+#: widgets/off-canvas.php:611
+msgid "Couleur du texte Hover"
+msgstr ""
+
+#: widgets/modal-box.php:657 widgets/off-canvas.php:705
+#: widgets/table-of-contents.php:318
+msgid "Couleur du titre"
+msgstr ""
+
+#: widgets/chart.php:598
+msgid "Couleurs aléatoires"
+msgstr ""
+
+#: widgets/chart.php:585
+msgid "Couleurs globales"
+msgstr ""
+
+#: widgets/reseaux-sociaux.php:223
+msgid "Courriel"
+msgstr ""
+
+#: admin/settings/eac-components_tab2.php:23
+msgid "CSS Personnalisé"
+msgstr ""
+
+#: includes/elementor/custom-css/eac-custom-css.php:73
+msgid "CSS personnalisé"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/featured-image-data.php:50
+msgid "Data"
+msgstr ""
+
+#: widgets/acf-relationship.php:212 widgets/acf-relationship.php:577
+#: widgets/articles-liste.php:334 widgets/articles-liste.php:586
+#: includes/eac-tools.php:698
+msgid "Date"
+msgstr ""
+
+#: widgets/instagram-explore.php:350 widgets/instagram-explore.php:416
+#: widgets/instagram-location.php:265 widgets/instagram-location.php:331
+#: widgets/instagram-user.php:317 widgets/instagram-user.php:405
+msgid "Date de publication"
+msgstr ""
+
+#: widgets/lecteur-rss.php:453 widgets/pinterest-rss.php:471
+msgid "Date de Publication/Auteur"
+msgstr ""
+
+#: widgets/off-canvas.php:1078
+msgid "Derniers commentaires"
+msgstr ""
+
+#: includes/eac-tools.php:699
+msgid "Dernière modification"
+msgstr ""
+
+#: widgets/chart.php:470
+msgid "Derrière"
+msgstr ""
+
+#: widgets/articles-liste.php:512 widgets/html-sitemap.php:466
+#: widgets/html-sitemap.php:586
+msgid "Descendant"
+msgstr ""
+
+#: widgets/image-effects.php:163 widgets/modal-box.php:238
+#: widgets/off-canvas.php:231
+#: includes/elementor/dynamic-tags/tags/featured-image-data.php:57
+msgid "Description"
+msgstr ""
+
+#: includes/elementor/injection/eac-injection-sticky.php:125
+msgid "Desktop"
+msgstr ""
+
+#: widgets/chart.php:469
+msgid "Devant"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/url-chart.php:51
+msgid "Diagramme Url"
+msgstr ""
+
+#: admin/settings/eac-components_tab1.php:51 widgets/chart.php:46
+#: includes/elementor/dynamic-tags/tags/url-chart.php:33
+msgid "Diagrammes"
+msgstr ""
+
+#: admin/settings/eac-components_tab1.php:134 widgets/image-diaporama.php:49
+msgid "Diaporama d'arrière-plan"
+msgstr ""
+
+#: widgets/acf-relationship.php:255 widgets/articles-liste.php:642
+#: widgets/articles-liste.php:1030 widgets/image-hotspots.php:437
+#: widgets/image-promotion.php:566 widgets/modal-box.php:384
+#: includes/elementor/dynamic-tags/tags/author-picture.php:42
+#: includes/elementor/dynamic-tags/tags/user-picture.php:42
+msgid "Dimension"
+msgstr ""
+
+#: widgets/image-effects.php:441 widgets/image-ronde.php:412
+#: widgets/instagram-explore.php:698 widgets/instagram-location.php:590
+#: widgets/instagram-user.php:649
+msgid "Dimension (px)"
+msgstr ""
+
+#: widgets/image-galerie.php:402 widgets/instagram-explore.php:440
+#: widgets/instagram-location.php:355 widgets/instagram-user.php:429
+msgid "Dimension des images"
+msgstr ""
+
+#: widgets/modal-box.php:355 widgets/off-canvas.php:325
+msgid "Dimension du bouton"
+msgstr ""
+
+#: widgets/acf-relationship.php:358 widgets/articles-liste.php:684
+#: widgets/html-sitemap.php:596 widgets/image-galerie.php:272
+#: widgets/instagram-explore.php:469 widgets/instagram-location.php:384
+#: widgets/instagram-search.php:275 widgets/instagram-user.php:458
+#: widgets/lecteur-rss.php:504 widgets/pinterest-rss.php:484
+msgid "Disposition"
+msgstr ""
+
+#: widgets/image-promotion.php:454 widgets/image-ribbon.php:107
+msgid "Doite"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/featured-image-data.php:29
+msgid "Données de l'image en avant"
+msgstr ""
+
+#: widgets/chart.php:171
+msgid "Donut"
+msgstr ""
+
+#: admin/settings/eac-admin_popup-acf.php:10
+msgid "Dossier '/includes/acf' du plugin."
+msgstr ""
+
+#: admin/settings/eac-admin_popup-acf.php:6
+msgid "Dossier ACF-JSON"
+msgstr ""
+
+#: widgets/image-hotspots.php:363 widgets/image-hotspots.php:666
+#: widgets/off-canvas.php:163
+msgid "Droit"
+msgstr ""
+
+#: widgets/acf-relationship.php:321 widgets/articles-liste.php:262
+#: widgets/html-sitemap.php:718 widgets/image-effects.php:341
+#: widgets/image-galerie.php:494 widgets/image-hotspots.php:170
+#: widgets/image-promotion.php:193 widgets/image-promotion.php:554
+#: widgets/image-promotion.php:672 widgets/image-ribbon.php:182
+#: widgets/image-ronde.php:143 widgets/images-comparison.php:167
+#: widgets/modal-box.php:438 widgets/off-canvas.php:353
+#: widgets/off-canvas.php:449 widgets/reseaux-sociaux.php:247
+#: widgets/table-of-contents.php:299
+msgid "Droite"
+msgstr ""
+
+#: widgets/kenburn-slider.php:131
+msgid "Durée de l'effet (millisecondes)"
+msgstr ""
+
+#: widgets/articles-liste.php:333
+msgid "Décimal"
+msgstr ""
+
+#: widgets/image-hotspots.php:195 widgets/modal-box.php:279
+#: widgets/off-canvas.php:295 widgets/off-canvas.php:301
+msgid "Déclencheur"
+msgstr ""
+
+#: widgets/acf-relationship.php:418 widgets/articles-liste.php:793
+#: widgets/image-galerie.php:527 widgets/image-promotion.php:517
+#: widgets/instagram-explore.php:537 widgets/instagram-location.php:452
+#: widgets/instagram-search.php:313 widgets/instagram-user.php:509
+#: widgets/lecteur-rss.php:559 widgets/modal-box.php:534
+#: widgets/modal-box.php:552 widgets/pinterest-rss.php:538
+#: widgets/syntax-highlighter.php:197
+msgid "Défaut"
+msgstr ""
+
+#: widgets/slider-pro.php:209
+msgid "Défaut : Attribut 'ALT ou TITLE' de l'image"
+msgstr ""
+
+#: widgets/slider-pro.php:396
+msgid "Défilement Droite/Gauche"
+msgstr ""
+
+#: widgets/slider-pro.php:386
+msgid "Défilement horizontal"
+msgstr ""
+
+#: widgets/slider-pro.php:387
+msgid "Défilement vertical"
+msgstr ""
+
+#: widgets/modal-box.php:461
+msgid "Délai d'affichage (Sec)"
+msgstr ""
+
+#: widgets/modal-box.php:474
+msgid "Désactiver cette option avant de quitter la page"
+msgstr ""
+
+#: widgets/image-hotspots.php:526
+msgid "Désactiver les infobulles avant d'ajouer/supprimer un marqueur"
+msgstr ""
+
+#: widgets/instagram-explore.php:428 widgets/instagram-location.php:343
+msgid "Désactivé, le lien est sur l'image"
+msgstr ""
+
+#: widgets/instagram-user.php:417
+msgid "Désactivé: Le lien est sur l'image"
+msgstr ""
+
+#: elementor-addon-components.php:164
+msgid "EAC : Elementor n'est pas chargé !"
+msgstr ""
+
+#: elementor-addon-components.php:158
+msgid "EAC : Plugin activé."
+msgstr ""
+
+#: includes/elementor/custom-attributes/eac-custom-attributes.php:57
+msgid "EAC attributs personnalisés"
+msgstr ""
+
+#: widgets/modal-box.php:454
+msgid "EAC Boîte modale"
+msgstr ""
+
+#: widgets/modal-box.php:296
+msgid "EAC boîte modale"
+msgstr ""
+
+#: plugin.php:709
+msgid "EAC Composants"
+msgstr ""
+
+#: admin/settings/eac-components.php:86
+msgid "EAC composants"
+msgstr ""
+
+#: includes/elementor/custom-css/eac-custom-css.php:58
+msgid "EAC CSS personnalisé"
+msgstr ""
+
+#: includes/elementor/injection/eac-injection-sticky.php:131
+msgid "EAC effet sticky"
+msgstr ""
+
+#: includes/elementor/injection/eac-injection-links.php:62
+msgid "EAC Lien container"
+msgstr ""
+
+#: widgets/image-effects.php:262
+msgid "Effet"
+msgstr ""
+
+#: widgets/image-hotspots.php:235
+msgid "Effet 'Glow'"
+msgstr ""
+
+#: widgets/image-effects.php:267
+msgid "Effet 1"
+msgstr ""
+
+#: widgets/image-effects.php:275
+msgid "Effet 10"
+msgstr ""
+
+#: widgets/image-effects.php:268
+msgid "Effet 2"
+msgstr ""
+
+#: widgets/image-effects.php:269
+msgid "Effet 3"
+msgstr ""
+
+#: widgets/image-effects.php:270
+msgid "Effet 4"
+msgstr ""
+
+#: widgets/image-effects.php:271
+msgid "Effet 5"
+msgstr ""
+
+#: widgets/image-effects.php:272
+msgid "Effet 6"
+msgstr ""
+
+#: widgets/image-effects.php:273
+msgid "Effet 7"
+msgstr ""
+
+#: widgets/image-effects.php:274
+msgid "Effet 8"
+msgstr ""
+
+#: widgets/modal-box.php:530
+msgid "Effet d'entrée"
+msgstr ""
+
+#: widgets/image-promotion.php:771
+msgid "Effet d'ombre"
+msgstr ""
+
+#: widgets/instagram-explore.php:590
+msgid "Effet Sepia"
+msgstr ""
+
+#: widgets/kenburn-slider.php:202 widgets/modal-box.php:524
+msgid "Effets"
+msgstr ""
+
+#: widgets/image-effects.php:137
+msgid "Effets d'Image"
+msgstr ""
+
+#: widgets/image-effects.php:50
+msgid "Effets d'image"
+msgstr ""
+
+#: admin/settings/eac-components_tab1.php:157
+msgid "Effets sur des images"
+msgstr ""
+
+#. Name of the plugin
+msgid "Elementor Addon Components"
+msgstr ""
+
+#: widgets/modal-box.php:201 widgets/modal-box.php:257
+#: widgets/off-canvas.php:211 widgets/off-canvas.php:250
+msgid "Elementor modèle de page"
+msgstr ""
+
+#: widgets/modal-box.php:200 widgets/modal-box.php:247
+#: widgets/off-canvas.php:210 widgets/off-canvas.php:240
+msgid "Elementor modèle de section"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/author-info.php:59
+#: includes/elementor/dynamic-tags/tags/user-info.php:62
+msgid "Email"
+msgstr ""
+
+#: widgets/image-promotion.php:518
+msgid "Empilé"
+msgstr ""
+
+#: widgets/chart.php:261
+msgid "Empilées"
+msgstr ""
+
+#: widgets/chart.php:274
+msgid "En escalier"
+msgstr ""
+
+#: widgets/image-ribbon.php:109
+msgid "En haut à doite ou à gauche"
+msgstr ""
+
+#: widgets/instagram-search.php:221
+msgid "En milliers"
+msgstr ""
+
+#: widgets/articles-liste.php:1394 widgets/image-promotion.php:383
+#: widgets/image-promotion.php:384 widgets/slider-pro.php:141
+msgid "En savoir plus"
+msgstr ""
+
+#: widgets/image-promotion.php:519
+msgid "Encadré"
+msgstr ""
+
+#: widgets/chart.php:753
+msgid "Enregistrer l'image"
+msgstr ""
+
+#: admin/settings/eac-components_tab1.php:229
+#: admin/settings/eac-components_tab2.php:83
+msgid "Enregistrer les modifications"
+msgstr ""
+
+#: includes/acf/options-page/eac-acf-options-page.php:487
+msgid "Enregistrés"
+msgstr ""
+
+#: widgets/modal-box.php:210 widgets/off-canvas.php:221
+msgid "Entrer le shortcode du formulaire"
+msgstr ""
+
+#: widgets/modal-box.php:649
+msgid "Entête boîte modale"
+msgstr ""
+
+#: widgets/off-canvas.php:542
+msgid "Entête du container"
+msgstr ""
+
+#: includes/proxy/lib/Endpoints.php:945
+msgid "Erreur 400: La requête est erronée<br>"
+msgstr ""
+
+#: includes/proxy/lib/Endpoints.php:937
+msgid "Erreur 401: Non autorisé<br>"
+msgstr ""
+
+#: includes/proxy/lib/Endpoints.php:935
+msgid "Erreur 403: Accès refusé<br>"
+msgstr ""
+
+#: includes/proxy/lib/Endpoints.php:933
+msgid "Erreur 404: La page demandée n'existe pas<br>"
+msgstr ""
+
+#: includes/proxy/lib/Endpoints.php:941
+msgid "Erreur 405: Méthode non autorisée<br>"
+msgstr ""
+
+#: includes/proxy/lib/Endpoints.php:496 includes/proxy/lib/Endpoints.php:552
+msgid "Erreur 429: Trop de requêtes."
+msgstr ""
+
+#: includes/proxy/lib/Endpoints.php:947
+msgid "Erreur 429: Trop de requêtes<br>"
+msgstr ""
+
+#: includes/proxy/lib/Endpoints.php:943
+msgid "Erreur 500: Erreur Interne du Serveur<br>"
+msgstr ""
+
+#: includes/proxy/lib/Endpoints.php:939
+msgid "Erreur 503: Service indisponible. Réessayer plus tard<br>"
+msgstr ""
+
+#: includes/proxy/lib/Endpoints.php:949
+msgid "Erreur inconnue. Recommencer plus tard<br>"
+msgstr ""
+
+#: includes/proxy/proxy_rss.php:152
+msgid "Erreur Interne du Serveur."
+msgstr ""
+
+#: includes/proxy/proxy_explore.php:155 includes/proxy/proxy_location.php:155
+msgid "Erreur lors de la recherche du profile: "
+msgstr ""
+
+#: includes/proxy/proxy_explore.php:105 includes/proxy/proxy_location.php:97
+msgid "Erreur lors de la recherche du profile:: "
+msgstr ""
+
+#: admin/settings/eac-components_tab1.php:231
+#: admin/settings/eac-components_tab2.php:85
+msgid "Erreur lors de la sauvegarde..."
+msgstr ""
+
+#: widgets/image-ronde.php:357 widgets/modal-box.php:980
+#: widgets/site-thumbnail.php:222
+msgid "Espacement"
+msgstr ""
+
+#: widgets/image-galerie.php:340
+msgid "Est appliqué uniquement à la première image"
+msgstr ""
+
+#: widgets/html-sitemap.php:253
+msgid "Exclure des auteurs"
+msgstr ""
+
+#: widgets/html-sitemap.php:288
+msgid "Exclure des pages"
+msgstr ""
+
+#: widgets/html-sitemap.php:418
+msgid "Exclure des taxonomies"
+msgstr ""
+
+#: widgets/html-sitemap.php:538
+msgid "Exclure des types d'articles"
+msgstr ""
+
+#: widgets/articles-liste.php:432 widgets/html-sitemap.php:442
+#: widgets/html-sitemap.php:562
+msgid "Exclure IDs"
+msgstr ""
+
+#: admin/settings/eac-components_header.php:7
+msgid "Extension de composants pour Elementor"
+msgstr ""
+
+#: widgets/kenburn-slider.php:143
+msgid "Facteur de zoom"
+msgstr ""
+
+#: widgets/image-effects.php:196 widgets/image-promotion.php:396
+#: widgets/image-ronde.php:227
+msgid "Fichier média"
+msgstr ""
+
+#: widgets/articles-liste.php:853 widgets/image-galerie.php:460
+#: widgets/image-galerie.php:727
+msgid "Filtre"
+msgstr ""
+
+#: widgets/articles-liste.php:184
+msgid "Filtre de requête"
+msgstr ""
+
+#: widgets/lecteur-audio.php:103
+msgid "Flux Audio"
+msgstr ""
+
+#: widgets/pinterest-rss.php:52
+msgid "Flux Pinterest"
+msgstr ""
+
+#: widgets/lecteur-rss.php:54 widgets/lecteur-rss.php:113
+#: widgets/off-canvas.php:1079
+msgid "Flux RSS"
+msgstr ""
+
+#: widgets/lecteur-audio.php:44
+msgid "Flux WebRadio"
+msgstr ""
+
+#: widgets/slider-pro.php:337
+msgid "Flèches"
+msgstr ""
+
+#: admin/settings/eac-components_tabs-nav.php:4
+msgid "Fonctionnalités"
+msgstr ""
+
+#: widgets/image-promotion.php:474
+msgid "Fond"
+msgstr ""
+
+#: widgets/modal-box.php:535
+msgid "Fondu"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/site-stats.php:59
+msgid "Format de la date"
+msgstr ""
+
+#: widgets/image-hotspots.php:539 widgets/image-promotion.php:528
+msgid "Forme"
+msgstr ""
+
+#: widgets/modal-box.php:199 widgets/off-canvas.php:207
+msgid "Formulaire"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/site-stats.php:58
+msgid "Fuseau horaire"
+msgstr ""
+
+#: widgets/image-diaporama.php:108 widgets/image-galerie.php:133
+#: widgets/kenburn-slider.php:102 widgets/slider-pro.php:112
+#: widgets/slider-pro.php:375
+msgid "Galerie"
+msgstr ""
+
+#: widgets/image-galerie.php:71
+msgid "Galerie d'Images"
+msgstr ""
+
+#: admin/settings/eac-components_tab1.php:34
+msgid "Galerie d'images"
+msgstr ""
+
+#: widgets/acf-relationship.php:313 widgets/articles-liste.php:254
+#: widgets/html-sitemap.php:710 widgets/image-effects.php:333
+#: widgets/image-galerie.php:486 widgets/image-hotspots.php:162
+#: widgets/image-hotspots.php:351 widgets/image-hotspots.php:658
+#: widgets/image-promotion.php:185 widgets/image-promotion.php:453
+#: widgets/image-promotion.php:546 widgets/image-promotion.php:664
+#: widgets/image-ribbon.php:106 widgets/image-ribbon.php:174
+#: widgets/image-ronde.php:135 widgets/images-comparison.php:133
+#: widgets/modal-box.php:430 widgets/off-canvas.php:151
+#: widgets/off-canvas.php:345 widgets/off-canvas.php:441
+#: widgets/reseaux-sociaux.php:246 widgets/table-of-contents.php:291
+msgid "Gauche"
+msgstr ""
+
+#: widgets/acf-relationship.php:407 widgets/articles-liste.php:781
+#: widgets/chart.php:551 widgets/image-diaporama.php:233
+#: widgets/image-galerie.php:514 widgets/instagram-explore.php:525
+#: widgets/instagram-location.php:440 widgets/instagram-search.php:301
+#: widgets/instagram-user.php:497 widgets/lecteur-audio.php:242
+#: widgets/lecteur-rss.php:546 widgets/pinterest-rss.php:526
+#: widgets/site-thumbnail.php:184
+msgid "Global"
+msgstr ""
+
+#: widgets/articles-liste.php:696 widgets/image-galerie.php:285
+#: widgets/instagram-explore.php:481 widgets/instagram-location.php:396
+#: widgets/instagram-user.php:470
+msgid "Grille"
+msgstr ""
+
+#: admin/settings/eac-components_tab1.php:20 widgets/articles-liste.php:92
+msgid "Grille d'articles"
+msgstr ""
+
+#: widgets/chart.php:499
+msgid "Grille des abscisses (X)"
+msgstr ""
+
+#: widgets/chart.php:511
+msgid "Grille des ordonnées (Y)"
+msgstr ""
+
+#: widgets/chart.php:523
+msgid "Grille des ordonnées (Y2)"
+msgstr ""
+
+#: includes/acf/options-page/eac-acf-options-page.php:485
+msgid "Groupes"
+msgstr ""
+
+#: admin/settings/eac-components_tab1.php:203 widgets/instagram-explore.php:57
+#: widgets/instagram-explore.php:117
+msgid "Hashtag Instagram"
+msgstr ""
+
+#: widgets/instagram-user.php:394
+msgid "Hashtags"
+msgstr ""
+
+#: widgets/instagram-explore.php:799 widgets/instagram-explore.php:803
+msgid "Hashtags associés"
+msgstr ""
+
+#: widgets/instagram-explore.php:796 widgets/instagram-location.php:680
+#: widgets/instagram-user.php:755
+msgid "Hashtags associés à la photo"
+msgstr ""
+
+#: widgets/image-effects.php:295 widgets/image-hotspots.php:355
+#: widgets/off-canvas.php:155 widgets/slider-pro.php:229
+msgid "Haut"
+msgstr ""
+
+#: widgets/kenburn-slider.php:222
+msgid "Haut Droit"
+msgstr ""
+
+#: widgets/modal-box.php:554
+msgid "Haut droite"
+msgstr ""
+
+#: widgets/kenburn-slider.php:221
+msgid "Haut Gauche"
+msgstr ""
+
+#: widgets/modal-box.php:553
+msgid "Haut gauche"
+msgstr ""
+
+#: widgets/instagram-explore.php:448 widgets/instagram-location.php:363
+#: widgets/instagram-user.php:437
+msgid "Haute"
+msgstr ""
+
+#: widgets/image-promotion.php:218 widgets/modal-box.php:509
+#: widgets/slider-pro.php:632 widgets/syntax-highlighter.php:180
+msgid "Hauteur"
+msgstr ""
+
+#: widgets/image-galerie.php:430
+msgid "Hauteur de l'image"
+msgstr ""
+
+#: widgets/slider-pro.php:290
+msgid "Hauteur du slider (px)"
+msgstr ""
+
+#: widgets/image-diaporama.php:197
+msgid "Hauteur min."
+msgstr ""
+
+#: widgets/html-sitemap.php:333
+msgid "Hebdomadaire"
+msgstr ""
+
+#: widgets/image-hotspots.php:238 widgets/image-hotspots.php:528
+msgid "hide"
+msgstr ""
+
+#: widgets/slider-pro.php:646
+msgid "Horizontale"
+msgstr ""
+
+#: widgets/html-sitemap.php:60
+msgid "HTML Sitemap"
+msgstr ""
+
+#: admin/settings/eac-components_tab1.php:89
+msgid "HTML sitemap"
+msgstr ""
+
+#: includes/proxy/proxy_rss.php:154
+msgid "HTTP: La requête a échoué."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://elementor-addon-components.com/"
+msgstr ""
+
+#: widgets/instagram-explore.php:427 widgets/instagram-location.php:342
+#: widgets/instagram-user.php:416
+msgid "Icône lien Instagram"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/user-info.php:55
+msgid "ID"
+msgstr ""
+
+#: includes/eac-tools.php:695
+msgid "Id"
+msgstr ""
+
+#: widgets/html-sitemap.php:254
+msgid "ID auteurs séparés par une virgule"
+msgstr ""
+
+#: includes/proxy/lib/Endpoints.php:672
+msgid "ID de l'utilisateur non trouvé ou compte privé<br>"
+msgstr ""
+
+#: includes/eac-shortcode.php:114
+#: includes/elementor/dynamic-tags/tags/post-elementor-tmpl.php:96
+msgid "ID du modèle ne peut pas être le même que le modèle actuel"
+msgstr ""
+
+#: widgets/instagram-location.php:131 widgets/instagram-search.php:190
+#: widgets/instagram-search.php:262
+msgid "Identifiant"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/user-info.php:58
+msgid "Identifiant de login"
+msgstr ""
+
+#: widgets/acf-relationship.php:247 widgets/acf-relationship.php:467
+#: widgets/articles-liste.php:633 widgets/articles-liste.php:936
+#: widgets/image-diaporama.php:124 widgets/image-effects.php:109
+#: widgets/image-effects.php:255 widgets/image-galerie.php:143
+#: widgets/image-galerie.php:394 widgets/image-galerie.php:659
+#: widgets/image-hotspots.php:139 widgets/image-hotspots.php:146
+#: widgets/image-promotion.php:113 widgets/image-ribbon.php:140
+#: widgets/image-ribbon.php:275 widgets/image-ronde.php:111
+#: widgets/image-ronde.php:313 widgets/images-comparison.php:117
+#: widgets/images-comparison.php:151 widgets/instagram-explore.php:567
+#: widgets/instagram-location.php:482 widgets/instagram-user.php:539
+#: widgets/lecteur-rss.php:465 widgets/modal-box.php:284
+#: widgets/modal-box.php:372 widgets/pinterest-rss.php:447
+msgid "Image"
+msgstr ""
+
+#: widgets/image-diaporama.php:137 widgets/image-galerie.php:196
+msgid "Image #"
+msgstr ""
+
+#: widgets/image-galerie.php:235
+msgid "Image #1"
+msgstr ""
+
+#: widgets/image-galerie.php:240
+msgid "Image #2"
+msgstr ""
+
+#: widgets/image-galerie.php:245
+msgid "Image #3"
+msgstr ""
+
+#: widgets/image-galerie.php:250
+msgid "Image #4"
+msgstr ""
+
+#: widgets/image-galerie.php:255
+msgid "Image #5"
+msgstr ""
+
+#: widgets/image-galerie.php:260
+msgid "Image #6"
+msgstr ""
+
+#: admin/settings/eac-components_tab1.php:164
+msgid "Image avec ruban"
+msgstr ""
+
+#: widgets/images-comparison.php:142
+msgid "Image de droite"
+msgstr ""
+
+#: widgets/images-comparison.php:108
+msgid "Image de gauche"
+msgstr ""
+
+#: widgets/modal-box.php:825
+msgid "Image déclencheur"
+msgstr ""
+
+#: widgets/acf-relationship.php:234 widgets/articles-liste.php:620
+#: includes/elementor/dynamic-tags/tags/featured-image-url.php:28
+#: includes/elementor/dynamic-tags/tags/featured-image.php:29
+msgid "Image en avant"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/url-image-widget.php:32
+msgid "Image externe"
+msgstr ""
+
+#: admin/settings/eac-components_tab1.php:173 widgets/image-ronde.php:52
+msgid "Image ronde"
+msgstr ""
+
+#: admin/settings/eac-components_tab1.php:72 widgets/image-hotspots.php:52
+msgid "Image réactive"
+msgstr ""
+
+#: widgets/slider-pro.php:121
+msgid "Images"
+msgstr ""
+
+#: admin/settings/eac-components_tab1.php:150
+msgid "Images Avant/Après"
+msgstr ""
+
+#: widgets/chart.php:125
+msgid "Importer un fichier"
+msgstr ""
+
+#: widgets/articles-liste.php:442
+msgid "Inclure les enfants"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/author-info.php:31
+msgid "Info Auteur"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/user-info.php:30
+msgid "Info Utilisateur"
+msgstr ""
+
+#: widgets/image-hotspots.php:340
+msgid "Infobulle"
+msgstr ""
+
+#: widgets/image-hotspots.php:517
+msgid "Infobulles"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/site-stats.php:60
+msgid "Inscrits"
+msgstr ""
+
+#: widgets/slider-pro.php:316
+msgid "Interval d'affichage (ms)"
+msgstr ""
+
+#: widgets/html-sitemap.php:332
+msgid "Journalière"
+msgstr ""
+
+#: widgets/image-galerie.php:286
+msgid "Justifier"
+msgstr ""
+
+#: admin/settings/eac-admin_popup-acf.php:9
+msgid ""
+"L'idée est similaire à la mise en cache, et à la fois accélère "
+"considérablement ACF et permet le contrôle de version sur vos paramètres de "
+"champ."
+msgstr ""
+
+#: widgets/image-hotspots.php:148
+msgid ""
+"La meilleure pratique pour la réactivité serait d'utiliser une image avec "
+"une orientation paysage"
+msgstr ""
+
+#: includes/proxy/proxy_rss.php:137
+msgid "La page demandée n'existe pas."
+msgstr ""
+
+#: widgets/image-galerie.php:173
+msgid "Labels du filtre"
+msgstr ""
+
+#: widgets/image-galerie.php:182
+msgid "Labels séparés par une virgule"
+msgstr ""
+
+#: widgets/syntax-highlighter.php:124
+#: includes/elementor/dynamic-tags/tags/site-stats.php:57
+msgid "Langage"
+msgstr ""
+
+#: widgets/acf-relationship.php:262 widgets/articles-liste.php:649
+#: widgets/image-galerie.php:409 widgets/modal-box.php:361
+#: widgets/modal-box.php:391 widgets/off-canvas.php:331
+msgid "Large"
+msgstr ""
+
+#: widgets/modal-box.php:497 widgets/slider-pro.php:622
+#: widgets/table-of-contents.php:264
+msgid "Largeur"
+msgstr ""
+
+#: widgets/image-hotspots.php:546 widgets/off-canvas.php:478
+msgid "Largeur (px)"
+msgstr ""
+
+#: widgets/slider-pro.php:273
+msgid "Largeur du slider (px)"
+msgstr ""
+
+#: widgets/image-effects.php:172 widgets/image-galerie.php:207
+#: widgets/image-galerie.php:236 widgets/image-galerie.php:241
+#: widgets/image-galerie.php:246 widgets/image-galerie.php:251
+#: widgets/image-galerie.php:256 widgets/image-galerie.php:261
+msgid ""
+"Le faux-texte en imprimerie, est un texte sans signification, qui sert à "
+"calibrer le contenu d'une page..."
+msgstr ""
+
+#: widgets/image-ronde.php:234
+msgid "Le lien est global"
+msgstr ""
+
+#: includes/elementor/injection/eac-injection-links.php:64
+msgid "Le lien n'est pas actif dans l'éditeur"
+msgstr ""
+
+#: widgets/instagram-explore.php:746 widgets/instagram-user.php:696
+msgid ""
+"Le tag sélectionné sera enregistré dans un cookie pour améliorer votre "
+"expérience utilisateur"
+msgstr ""
+
+#: widgets/image-ribbon.php:119
+msgid "Le texte du ruban"
+msgstr ""
+
+#: admin/settings/eac-components_tab1.php:120
+msgid "Lecteur audio"
+msgstr ""
+
+#: admin/settings/eac-components_tab1.php:113
+msgid "Lecteur RSS"
+msgstr ""
+
+#: widgets/slider-pro.php:304
+msgid "Lecture automatique"
+msgstr ""
+
+#: widgets/kenburn-slider.php:165
+msgid "Lente et lente"
+msgstr ""
+
+#: widgets/kenburn-slider.php:163
+msgid "Lente et rapide"
+msgstr ""
+
+#: widgets/kenburn-slider.php:162
+msgid "Lente, rapide et lente"
+msgstr ""
+
+#: admin/settings/eac-admin_popup-acf.php:8
+msgid ""
+"Les groupes et les champs ACF seront enregistrés localement dans ce dossier "
+"au format JSON."
+msgstr ""
+
+#: widgets/articles-liste.php:433 widgets/html-sitemap.php:443
+#: widgets/html-sitemap.php:563
+msgid "Les ID séparés par une virgule sans espace"
+msgstr ""
+
+#: includes/eac-update-plugin.php:28
+msgid "Les mises à jour automatiques ne sont pas disponibles pour ce plugin"
+msgstr ""
+
+#: widgets/instagram-explore.php:765 widgets/instagram-location.php:653
+#: widgets/instagram-user.php:717
+msgid "Les pictogrammes des images affichent plus de contenu"
+msgstr ""
+
+#: widgets/instagram-search.php:439
+msgid "Les résultats sont stockés pendant la session"
+msgstr ""
+
+#: widgets/off-canvas.php:314
+msgid "Libellé du bouton"
+msgstr ""
+
+#: widgets/acf-relationship.php:271 widgets/articles-liste.php:670
+#: widgets/lecteur-rss.php:490
+msgid "Lien de l'article sur l'image"
+msgstr ""
+
+#: widgets/image-effects.php:218 widgets/image-promotion.php:418
+#: widgets/image-ronde.php:262
+msgid "Lien de page"
+msgstr ""
+
+#: widgets/image-ronde.php:235
+msgid "Lien global au composant"
+msgstr ""
+
+#: widgets/modal-box.php:197
+msgid "Lien HTML"
+msgstr ""
+
+#: widgets/slider-pro.php:149
+msgid "Lien sur le texte"
+msgstr ""
+
+#: widgets/modal-box.php:196
+msgid "Lien Vidéo ou Carte"
+msgstr ""
+
+#: admin/settings/eac-components_tab2.php:55
+msgid "Lien Élément"
+msgstr ""
+
+#: widgets/image-effects.php:183 widgets/image-ronde.php:214
+msgid "Liens"
+msgstr ""
+
+#: widgets/instagram-search.php:455
+msgid "Lieu"
+msgstr ""
+
+#: admin/settings/eac-components_tab1.php:210 widgets/instagram-location.php:56
+msgid "Lieu Instagram"
+msgstr ""
+
+#: widgets/instagram-user.php:372
+msgid "Lieu/Tagged user"
+msgstr ""
+
+#: widgets/instagram-location.php:116
+msgid "Lieux Instagram"
+msgstr ""
+
+#: widgets/chart.php:169 widgets/chart.php:373
+msgid "Ligne"
+msgstr ""
+
+#: widgets/instagram-explore.php:351 widgets/instagram-location.php:266
+#: widgets/instagram-user.php:318
+msgid "Likes"
+msgstr ""
+
+#: widgets/kenburn-slider.php:161
+msgid "Linéaire"
+msgstr ""
+
+#: widgets/instagram-explore.php:790 widgets/instagram-location.php:674
+#: widgets/instagram-search.php:464 widgets/instagram-user.php:747
+#: widgets/lecteur-rss.php:727 widgets/pinterest-rss.php:710
+msgid "Lire le flux"
+msgstr ""
+
+#: includes/acf/options-page/eac-acf-options-page.php:424
+msgid "Liste Archives"
+msgstr ""
+
+#: widgets/image-promotion.php:323
+msgid "Liste des caractéristiques"
+msgstr ""
+
+#: widgets/chart.php:203 widgets/chart.php:330 widgets/chart.php:454
+msgid "Liste des données"
+msgstr ""
+
+#: widgets/image-galerie.php:229
+msgid "Liste des images"
+msgstr ""
+
+#: widgets/image-hotspots.php:384
+msgid "Liste des marqueurs"
+msgstr ""
+
+#: includes/acf/options-page/eac-acf-options-page.php:439
+msgid "Liste des Pages d'Options"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/site-logo.php:28
+msgid "Logo du site"
+msgstr ""
+
+#: widgets/chart.php:488 widgets/image-ribbon.php:194
+#: widgets/image-ribbon.php:302 widgets/instagram-explore.php:335
+#: widgets/instagram-explore.php:634 widgets/instagram-location.php:250
+#: widgets/instagram-location.php:538 widgets/instagram-search.php:356
+#: widgets/instagram-user.php:302 widgets/instagram-user.php:593
+#: widgets/kenburn-slider.php:185 widgets/modal-box.php:400
+#: widgets/pinterest-rss.php:436 widgets/pinterest-rss.php:609
+#: widgets/site-thumbnail.php:171 widgets/site-thumbnail.php:214
+#: includes/elementor/dynamic-tags/tags/featured-image-data.php:56
+msgid "Légende"
+msgstr ""
+
+#: widgets/image-ribbon.php:197 widgets/modal-box.php:972
+msgid "Légende de l'image"
+msgstr ""
+
+#: widgets/modal-box.php:405 widgets/modal-box.php:414
+msgid "Légende personnalisée"
+msgstr ""
+
+#: widgets/lecteur-rss.php:576 widgets/pinterest-rss.php:552
+msgid "Marge entre les colonnes"
+msgstr ""
+
+#: widgets/image-galerie.php:559 widgets/instagram-explore.php:575
+#: widgets/instagram-location.php:490 widgets/instagram-search.php:328
+#: widgets/instagram-user.php:547
+msgid "Marge entre les images"
+msgstr ""
+
+#: widgets/acf-relationship.php:453 widgets/articles-liste.php:825
+msgid "Marge entre les items"
+msgstr ""
+
+#: widgets/slider-pro.php:450
+msgid "Marge interne"
+msgstr ""
+
+#: widgets/modal-box.php:343 widgets/off-canvas.php:414
+#: widgets/site-thumbnail.php:191
+msgid "Marges"
+msgstr ""
+
+#: widgets/modal-box.php:680 widgets/modal-box.php:842
+msgid "Marges internes"
+msgstr ""
+
+#: widgets/image-hotspots.php:204
+msgid "Marqueur #"
+msgstr ""
+
+#: widgets/image-hotspots.php:389
+msgid "Marqueur #1"
+msgstr ""
+
+#: widgets/image-hotspots.php:394
+msgid "Marqueur #2"
+msgstr ""
+
+#: widgets/image-hotspots.php:399
+msgid "Marqueur #3"
+msgstr ""
+
+#: widgets/image-hotspots.php:184
+msgid "Marqueurs"
+msgstr ""
+
+#: widgets/html-sitemap.php:334
+msgid "Mensuelle"
+msgstr ""
+
+#: widgets/instagram-user.php:383
+msgid "Mentions"
+msgstr ""
+
+#: widgets/off-canvas.php:208 widgets/off-canvas.php:260
+msgid "Menu"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/author-info.php:61
+msgid "Meta auteur"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/user-info.php:64
+msgid "Meta utilisateur"
+msgstr ""
+
+#: widgets/acf-relationship.php:259 widgets/articles-liste.php:646
+#: widgets/image-galerie.php:406 widgets/modal-box.php:388
+msgid "Miniature"
+msgstr ""
+
+#: widgets/instagram-explore.php:444 widgets/instagram-location.php:359
+#: widgets/instagram-user.php:433
+msgid "Miniature (240px)"
+msgstr ""
+
+#: admin/settings/eac-components_tab1.php:103 widgets/site-thumbnail.php:46
+msgid "Miniature de site"
+msgstr ""
+
+#: widgets/slider-pro.php:359
+msgid "Miniatures"
+msgstr ""
+
+#: widgets/articles-liste.php:691 widgets/image-galerie.php:280
+#: widgets/instagram-explore.php:476 widgets/instagram-location.php:391
+#: widgets/instagram-user.php:465
+msgid "Mode"
+msgstr ""
+
+#: widgets/modal-box.php:588 widgets/off-canvas.php:510
+msgid "Mode de fusion"
+msgstr ""
+
+#: includes/acf/options-page/eac-acf-options-page.php:431
+msgid "Modifier une Page d'Options"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/post-elementor-tmpl.php:30
+#: includes/elementor/dynamic-tags/tags/site-stats.php:70
+msgid "Modèles Elementor"
+msgstr ""
+
+#: widgets/instagram-explore.php:360 widgets/instagram-location.php:275
+#: widgets/instagram-user.php:327
+msgid "Montrer la légende"
+msgstr ""
+
+#: widgets/articles-liste.php:695 widgets/image-galerie.php:284
+#: widgets/instagram-explore.php:480 widgets/instagram-location.php:395
+#: widgets/instagram-user.php:469
+msgid "Mosaïque"
+msgstr ""
+
+#: widgets/instagram-search.php:450
+msgid "Mot-dièse"
+msgstr ""
+
+#: widgets/instagram-search.php:461
+msgid "Mots-clés"
+msgstr ""
+
+#: widgets/modal-box.php:360 widgets/off-canvas.php:330
+msgid "Moyen"
+msgstr ""
+
+#: widgets/acf-relationship.php:260 widgets/articles-liste.php:647
+#: widgets/image-galerie.php:407 widgets/modal-box.php:389
+msgid "Moyenne"
+msgstr ""
+
+#: widgets/instagram-explore.php:446 widgets/instagram-location.php:361
+#: widgets/instagram-user.php:435
+msgid "Moyenne (640px)"
+msgstr ""
+
+#: widgets/acf-relationship.php:261 widgets/articles-liste.php:648
+#: widgets/image-galerie.php:408 widgets/modal-box.php:390
+msgid "Moyenne-large"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/site-stats.php:65
+msgid "Médias"
+msgstr ""
+
+#: includes/proxy/proxy_rss.php:149
+msgid "Méthode non autorisée."
+msgstr ""
+
+#: widgets/kenburn-slider.php:173
+msgid "Navigation"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/user-info.php:60
+msgid "Nom"
+msgstr ""
+
+#: widgets/instagram-search.php:141
+msgid "Nom complet"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/author-name.php:27
+msgid "Nom de l'auteur"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/cookies.php:49
+msgid "Nom du cookie"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/site-title.php:26
+msgid "Nom du site"
+msgstr ""
+
+#: widgets/pinterest-rss.php:158
+msgid "Nom du tableau"
+msgstr ""
+
+#: widgets/acf-relationship.php:172 widgets/articles-liste.php:458
+#: widgets/lecteur-rss.php:430 widgets/pinterest-rss.php:424
+msgid "Nombre d'articles"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/site-stats.php:64
+msgid "Nombre d'articles personnalisés"
+msgstr ""
+
+#: widgets/instagram-explore.php:334 widgets/instagram-location.php:249
+#: widgets/instagram-user.php:301
+msgid "Nombre de caractères"
+msgstr ""
+
+#: widgets/acf-relationship.php:384 widgets/articles-liste.php:728
+#: widgets/html-sitemap.php:606 widgets/image-galerie.php:317
+#: widgets/instagram-explore.php:504 widgets/instagram-location.php:419
+#: widgets/instagram-search.php:281 widgets/instagram-user.php:477
+#: widgets/lecteur-rss.php:526 widgets/pinterest-rss.php:506
+msgid "Nombre de colonnes"
+msgstr ""
+
+#: widgets/instagram-explore.php:382 widgets/instagram-location.php:297
+#: widgets/instagram-user.php:349 includes/eac-tools.php:700
+msgid "Nombre de commentaires"
+msgstr ""
+
+#: widgets/instagram-explore.php:405 widgets/instagram-location.php:320
+msgid "Nombre de hashtags"
+msgstr ""
+
+#: widgets/instagram-explore.php:371 widgets/instagram-location.php:286
+#: widgets/instagram-user.php:338
+msgid "Nombre de Likes"
+msgstr ""
+
+#: widgets/acf-relationship.php:345 widgets/articles-liste.php:1097
+#: widgets/lecteur-rss.php:441 widgets/pinterest-rss.php:435
+msgid "Nombre de mots"
+msgstr ""
+
+#: widgets/off-canvas.php:272
+msgid "Nombre de niveaux"
+msgstr ""
+
+#: widgets/instagram-search.php:209 widgets/instagram-search.php:220
+msgid "Nombre de publications"
+msgstr ""
+
+#: includes/acf/options-page/eac-acf-options-page.php:567
+#: includes/acf/options-page/eac-acf-options-page.php:573
+msgid "Non"
+msgstr ""
+
+#: widgets/acf-relationship.php:215 widgets/acf-relationship.php:226
+#: widgets/acf-relationship.php:237 widgets/acf-relationship.php:274
+#: widgets/acf-relationship.php:490 widgets/articles-liste.php:237
+#: widgets/articles-liste.php:398 widgets/articles-liste.php:423
+#: widgets/articles-liste.php:445 widgets/articles-liste.php:471
+#: widgets/articles-liste.php:532 widgets/articles-liste.php:543
+#: widgets/articles-liste.php:555 widgets/articles-liste.php:567
+#: widgets/articles-liste.php:578 widgets/articles-liste.php:589
+#: widgets/articles-liste.php:600 widgets/articles-liste.php:612
+#: widgets/articles-liste.php:623 widgets/articles-liste.php:660
+#: widgets/articles-liste.php:673 widgets/articles-liste.php:752
+#: widgets/articles-liste.php:767 widgets/articles-liste.php:960
+#: widgets/chart.php:128 widgets/chart.php:241 widgets/chart.php:264
+#: widgets/chart.php:277 widgets/chart.php:309 widgets/chart.php:390
+#: widgets/chart.php:412 widgets/chart.php:424 widgets/chart.php:491
+#: widgets/chart.php:502 widgets/chart.php:514 widgets/chart.php:526
+#: widgets/chart.php:538 widgets/chart.php:588 widgets/chart.php:601
+#: widgets/chart.php:673 widgets/html-sitemap.php:159
+#: widgets/html-sitemap.php:170 widgets/html-sitemap.php:181
+#: widgets/html-sitemap.php:192 widgets/html-sitemap.php:203
+#: widgets/html-sitemap.php:234 widgets/html-sitemap.php:245
+#: widgets/html-sitemap.php:321 widgets/html-sitemap.php:377
+#: widgets/html-sitemap.php:388 widgets/html-sitemap.php:399
+#: widgets/html-sitemap.php:410 widgets/html-sitemap.php:433
+#: widgets/html-sitemap.php:497 widgets/html-sitemap.php:508
+#: widgets/html-sitemap.php:519 widgets/html-sitemap.php:530
+#: widgets/html-sitemap.php:553 widgets/image-diaporama.php:188
+#: widgets/image-effects.php:245 widgets/image-galerie.php:342
+#: widgets/image-galerie.php:450 widgets/image-galerie.php:472
+#: widgets/image-galerie.php:671 widgets/image-promotion.php:124
+#: widgets/image-promotion.php:135 widgets/image-promotion.php:237
+#: widgets/image-promotion.php:315 widgets/image-promotion.php:441
+#: widgets/image-ronde.php:238 widgets/image-ronde.php:276
+#: widgets/image-ronde.php:303 widgets/instagram-explore.php:363
+#: widgets/instagram-explore.php:374 widgets/instagram-explore.php:385
+#: widgets/instagram-explore.php:397 widgets/instagram-explore.php:408
+#: widgets/instagram-explore.php:419 widgets/instagram-explore.php:431
+#: widgets/instagram-explore.php:458 widgets/instagram-location.php:278
+#: widgets/instagram-location.php:289 widgets/instagram-location.php:300
+#: widgets/instagram-location.php:312 widgets/instagram-location.php:323
+#: widgets/instagram-location.php:334 widgets/instagram-location.php:346
+#: widgets/instagram-location.php:373 widgets/instagram-search.php:144
+#: widgets/instagram-search.php:182 widgets/instagram-search.php:193
+#: widgets/instagram-search.php:212 widgets/instagram-search.php:224
+#: widgets/instagram-search.php:243 widgets/instagram-search.php:254
+#: widgets/instagram-search.php:265 widgets/instagram-user.php:330
+#: widgets/instagram-user.php:341 widgets/instagram-user.php:352
+#: widgets/instagram-user.php:364 widgets/instagram-user.php:375
+#: widgets/instagram-user.php:386 widgets/instagram-user.php:397
+#: widgets/instagram-user.php:408 widgets/instagram-user.php:420
+#: widgets/instagram-user.php:447 widgets/kenburn-slider.php:177
+#: widgets/kenburn-slider.php:189 widgets/lecteur-rss.php:456
+#: widgets/lecteur-rss.php:468 widgets/lecteur-rss.php:480
+#: widgets/lecteur-rss.php:493 widgets/modal-box.php:171
+#: widgets/modal-box.php:310 widgets/modal-box.php:476
+#: widgets/off-canvas.php:175 widgets/off-canvas.php:368
+#: widgets/off-canvas.php:380 widgets/pinterest-rss.php:149
+#: widgets/pinterest-rss.php:450 widgets/pinterest-rss.php:461
+#: widgets/pinterest-rss.php:474 widgets/reseaux-sociaux.php:116
+#: widgets/reseaux-sociaux.php:127 widgets/reseaux-sociaux.php:138
+#: widgets/reseaux-sociaux.php:149 widgets/reseaux-sociaux.php:160
+#: widgets/reseaux-sociaux.php:171 widgets/reseaux-sociaux.php:182
+#: widgets/reseaux-sociaux.php:193 widgets/reseaux-sociaux.php:204
+#: widgets/reseaux-sociaux.php:215 widgets/reseaux-sociaux.php:226
+#: widgets/reseaux-sociaux.php:267 widgets/site-thumbnail.php:150
+#: widgets/site-thumbnail.php:162 widgets/slider-pro.php:200
+#: widgets/slider-pro.php:212 widgets/slider-pro.php:251
+#: widgets/slider-pro.php:263 widgets/slider-pro.php:307
+#: widgets/slider-pro.php:340 widgets/slider-pro.php:351
+#: widgets/slider-pro.php:362 widgets/slider-pro.php:399
+#: widgets/slider-pro.php:591 widgets/slider-pro.php:657
+#: widgets/syntax-highlighter.php:151 widgets/table-of-contents.php:209
+#: widgets/table-of-contents.php:223 widgets/table-of-contents.php:244
+#: includes/elementor/injection/eac-injection-sticky.php:141
+msgid "non"
+msgstr ""
+
+#: includes/proxy/proxy_rss.php:143
+msgid "Non autorisé."
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/user-info.php:86
+msgid "Non logué"
+msgstr ""
+
+#: admin/settings/eac-components.php:239 admin/settings/eac-components.php:299
+msgid "Nonce erroné"
+msgstr ""
+
+#: widgets/modal-box.php:835
+msgid "Normal"
+msgstr ""
+
+#: includes/acf/options-page/eac-acf-options-page.php:427
+#: includes/acf/options-page/eac-acf-options-page.php:429
+msgid "Nouvelle Page d'Options"
+msgstr ""
+
+#: widgets/off-canvas.php:1076
+msgid "Nuage de Tags"
+msgstr ""
+
+#: widgets/articles-liste.php:332
+msgid "Numérique"
+msgstr ""
+
+#: widgets/syntax-highlighter.php:148
+msgid "Numéros de ligne"
+msgstr ""
+
+#: widgets/articles-liste.php:1080 widgets/modal-box.php:793
+#: widgets/modal-box.php:884 widgets/off-canvas.php:863
+#: widgets/site-thumbnail.php:205 widgets/table-of-contents.php:410
+msgid "Ombre"
+msgstr ""
+
+#: widgets/image-hotspots.php:608
+msgid "Ombre portée"
+msgstr ""
+
+#: widgets/image-ribbon.php:282
+msgid "Opacité"
+msgstr ""
+
+#: widgets/modal-box.php:618 widgets/modal-box.php:900
+msgid "Opacitée"
+msgstr ""
+
+#: widgets/modal-box.php:272
+msgid "Options de déclenchement"
+msgstr ""
+
+#: widgets/articles-liste.php:343
+msgid "Opérateur de comparaison"
+msgstr ""
+
+#: widgets/chart.php:219
+msgid "Ordonnée (Y)"
+msgstr ""
+
+#: widgets/chart.php:230
+msgid "Ordonnées"
+msgstr ""
+
+#: widgets/chart.php:401
+msgid "Ordonnées 2"
+msgstr ""
+
+#: includes/elementor/injection/eac-injection-sticky.php:195
+msgid "Ordre de l'élément (z-index)"
+msgstr ""
+
+#: widgets/acf-relationship.php:263 widgets/articles-liste.php:650
+#: widgets/image-galerie.php:410 widgets/modal-box.php:392
+msgid "Originale"
+msgstr ""
+
+#: includes/acf/options-page/eac-acf-options-page.php:550
+msgid "Oui"
+msgstr ""
+
+#: widgets/acf-relationship.php:214 widgets/acf-relationship.php:225
+#: widgets/acf-relationship.php:236 widgets/acf-relationship.php:273
+#: widgets/acf-relationship.php:489 widgets/articles-liste.php:236
+#: widgets/articles-liste.php:397 widgets/articles-liste.php:422
+#: widgets/articles-liste.php:444 widgets/articles-liste.php:470
+#: widgets/articles-liste.php:531 widgets/articles-liste.php:542
+#: widgets/articles-liste.php:554 widgets/articles-liste.php:566
+#: widgets/articles-liste.php:577 widgets/articles-liste.php:588
+#: widgets/articles-liste.php:599 widgets/articles-liste.php:611
+#: widgets/articles-liste.php:622 widgets/articles-liste.php:659
+#: widgets/articles-liste.php:672 widgets/articles-liste.php:751
+#: widgets/articles-liste.php:766 widgets/articles-liste.php:959
+#: widgets/chart.php:127 widgets/chart.php:240 widgets/chart.php:263
+#: widgets/chart.php:276 widgets/chart.php:308 widgets/chart.php:389
+#: widgets/chart.php:411 widgets/chart.php:423 widgets/chart.php:490
+#: widgets/chart.php:501 widgets/chart.php:513 widgets/chart.php:525
+#: widgets/chart.php:537 widgets/chart.php:587 widgets/chart.php:600
+#: widgets/chart.php:672 widgets/html-sitemap.php:158
+#: widgets/html-sitemap.php:169 widgets/html-sitemap.php:180
+#: widgets/html-sitemap.php:191 widgets/html-sitemap.php:202
+#: widgets/html-sitemap.php:233 widgets/html-sitemap.php:244
+#: widgets/html-sitemap.php:320 widgets/html-sitemap.php:376
+#: widgets/html-sitemap.php:387 widgets/html-sitemap.php:398
+#: widgets/html-sitemap.php:409 widgets/html-sitemap.php:432
+#: widgets/html-sitemap.php:496 widgets/html-sitemap.php:507
+#: widgets/html-sitemap.php:518 widgets/html-sitemap.php:529
+#: widgets/html-sitemap.php:552 widgets/image-diaporama.php:187
+#: widgets/image-effects.php:244 widgets/image-galerie.php:341
+#: widgets/image-galerie.php:449 widgets/image-galerie.php:471
+#: widgets/image-galerie.php:670 widgets/image-promotion.php:123
+#: widgets/image-promotion.php:134 widgets/image-promotion.php:236
+#: widgets/image-promotion.php:314 widgets/image-promotion.php:440
+#: widgets/image-ronde.php:237 widgets/image-ronde.php:275
+#: widgets/image-ronde.php:302 widgets/instagram-explore.php:362
+#: widgets/instagram-explore.php:373 widgets/instagram-explore.php:384
+#: widgets/instagram-explore.php:396 widgets/instagram-explore.php:407
+#: widgets/instagram-explore.php:418 widgets/instagram-explore.php:430
+#: widgets/instagram-explore.php:457 widgets/instagram-location.php:277
+#: widgets/instagram-location.php:288 widgets/instagram-location.php:299
+#: widgets/instagram-location.php:311 widgets/instagram-location.php:322
+#: widgets/instagram-location.php:333 widgets/instagram-location.php:345
+#: widgets/instagram-location.php:372 widgets/instagram-search.php:143
+#: widgets/instagram-search.php:181 widgets/instagram-search.php:192
+#: widgets/instagram-search.php:211 widgets/instagram-search.php:223
+#: widgets/instagram-search.php:242 widgets/instagram-search.php:253
+#: widgets/instagram-search.php:264 widgets/instagram-user.php:329
+#: widgets/instagram-user.php:340 widgets/instagram-user.php:351
+#: widgets/instagram-user.php:363 widgets/instagram-user.php:374
+#: widgets/instagram-user.php:385 widgets/instagram-user.php:396
+#: widgets/instagram-user.php:407 widgets/instagram-user.php:419
+#: widgets/instagram-user.php:446 widgets/kenburn-slider.php:176
+#: widgets/kenburn-slider.php:188 widgets/lecteur-rss.php:455
+#: widgets/lecteur-rss.php:467 widgets/lecteur-rss.php:479
+#: widgets/lecteur-rss.php:492 widgets/modal-box.php:170
+#: widgets/modal-box.php:309 widgets/modal-box.php:475
+#: widgets/off-canvas.php:174 widgets/off-canvas.php:367
+#: widgets/off-canvas.php:379 widgets/pinterest-rss.php:148
+#: widgets/pinterest-rss.php:449 widgets/pinterest-rss.php:460
+#: widgets/pinterest-rss.php:473 widgets/reseaux-sociaux.php:115
+#: widgets/reseaux-sociaux.php:126 widgets/reseaux-sociaux.php:137
+#: widgets/reseaux-sociaux.php:148 widgets/reseaux-sociaux.php:159
+#: widgets/reseaux-sociaux.php:170 widgets/reseaux-sociaux.php:181
+#: widgets/reseaux-sociaux.php:192 widgets/reseaux-sociaux.php:203
+#: widgets/reseaux-sociaux.php:214 widgets/reseaux-sociaux.php:225
+#: widgets/reseaux-sociaux.php:266 widgets/site-thumbnail.php:149
+#: widgets/site-thumbnail.php:161 widgets/slider-pro.php:199
+#: widgets/slider-pro.php:211 widgets/slider-pro.php:250
+#: widgets/slider-pro.php:262 widgets/slider-pro.php:306
+#: widgets/slider-pro.php:339 widgets/slider-pro.php:350
+#: widgets/slider-pro.php:361 widgets/slider-pro.php:398
+#: widgets/slider-pro.php:590 widgets/slider-pro.php:656
+#: widgets/syntax-highlighter.php:150 widgets/table-of-contents.php:208
+#: widgets/table-of-contents.php:222 widgets/table-of-contents.php:243
+#: includes/elementor/injection/eac-injection-sticky.php:140
+msgid "oui"
+msgstr ""
+
+#: widgets/modal-box.php:286
+msgid "Ouverture automatique"
+msgstr ""
+
+#: widgets/modal-box.php:1189
+msgid "Ouverture automatique ne supporte pas les formats HTML, Vidéo ou Carte"
+msgstr ""
+
+#: widgets/reseaux-sociaux.php:264
+msgid "Ouvrir dans une nouvelle fenêtre"
+msgstr ""
+
+#: widgets/off-canvas.php:315 widgets/off-canvas.php:427
+msgid "Ouvrir la barre latérale"
+msgstr ""
+
+#: widgets/html-sitemap.php:771
+#: includes/elementor/dynamic-tags/tags/post-elementor-tmpl.php:55
+msgid "Page"
+msgstr ""
+
+#: widgets/html-sitemap.php:280
+#: includes/elementor/dynamic-tags/tags/site-stats.php:62
+#: includes/elementor/dynamic-tags/tags/url-page.php:32
+msgid "Pages"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/url-page.php:50
+msgid "Pages Url"
+msgstr ""
+
+#: widgets/articles-liste.php:468
+msgid "Pagination"
+msgstr ""
+
+#: widgets/kenburn-slider.php:214
+msgid "Panoramique bas"
+msgstr ""
+
+#: widgets/kenburn-slider.php:216
+msgid "Panoramique droit"
+msgstr ""
+
+#: widgets/kenburn-slider.php:215
+msgid "Panoramique gauche"
+msgstr ""
+
+#: widgets/kenburn-slider.php:213
+msgid "Panoramique haut"
+msgstr ""
+
+#: includes/acf/options-page/eac-acf-options-page.php:425
+msgid "Parent"
+msgstr ""
+
+#: widgets/reseaux-sociaux.php:42
+msgid "Partager"
+msgstr ""
+
+#: widgets/reseaux-sociaux.php:257 widgets/reseaux-sociaux.php:258
+msgid "Partager avec:"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/post-excerpt.php:42
+msgid "Pas de résumé"
+msgstr ""
+
+#: widgets/slider-pro.php:723 widgets/slider-pro.php:744
+msgid "Pas de titre"
+msgstr ""
+
+#: includes/acf/options-page/eac-acf-options-page.php:434
+msgid "Pas trouvé"
+msgstr ""
+
+#: includes/acf/options-page/eac-acf-options-page.php:435
+msgid "Pas trouvé dans la poubelle"
+msgstr ""
+
+#: widgets/instagram-user.php:753
+msgid "Personnes identifiées dans la photo"
+msgstr ""
+
+#: widgets/instagram-user.php:754
+msgid "Personnes mentionnées dans l'article"
+msgstr ""
+
+#: widgets/instagram-explore.php:797 widgets/instagram-location.php:681
+#: widgets/instagram-user.php:756
+msgid "Personnes qui aiment la photo"
+msgstr ""
+
+#: widgets/instagram-explore.php:798 widgets/instagram-location.php:682
+#: widgets/instagram-user.php:757
+msgid "Personnes qui ont commenté la photo"
+msgstr ""
+
+#: widgets/modal-box.php:359 widgets/off-canvas.php:329
+msgid "Petit"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/author-picture.php:28
+msgid "Photo de l'auteur"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/user-picture.php:28
+msgid "Photo de l'utilisateur"
+msgstr ""
+
+#: widgets/instagram-location.php:652
+msgid "Photos d'un lieu publiées sur Instagram"
+msgstr ""
+
+#: widgets/instagram-explore.php:764
+msgid "Photos Instagram publiées avec le hashtag"
+msgstr ""
+
+#: widgets/instagram-user.php:716
+msgid "Photos Instagram publiées d'un compte utilisateur"
+msgstr ""
+
+#: widgets/image-hotspots.php:214 widgets/image-hotspots.php:224
+#: widgets/image-promotion.php:506
+msgid "Pictogramme"
+msgstr ""
+
+#: widgets/image-hotspots.php:215 widgets/image-hotspots.php:246
+msgid "Pictogramme animée"
+msgstr ""
+
+#: widgets/table-of-contents.php:253
+msgid "Pictogramme du contenu"
+msgstr ""
+
+#: widgets/image-ronde.php:273
+msgid "Pictogramme du lien"
+msgstr ""
+
+#: widgets/image-hotspots.php:415
+msgid "Pictogramme déclencheur"
+msgstr ""
+
+#: widgets/articles-liste.php:1135 widgets/image-effects.php:432
+#: widgets/image-ronde.php:397 widgets/instagram-explore.php:669
+#: widgets/instagram-location.php:573 widgets/instagram-search.php:390
+#: widgets/instagram-user.php:628 widgets/lecteur-rss.php:664
+#: widgets/modal-box.php:319 widgets/off-canvas.php:389
+#: widgets/pinterest-rss.php:640
+msgid "Pictogrammes"
+msgstr ""
+
+#: admin/settings/eac-components_tab1.php:127 widgets/pinterest-rss.php:111
+msgid "Pinterest RSS"
+msgstr ""
+
+#: widgets/slider-pro.php:260
+msgid "Pleine largeur"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/site-stats.php:72
+msgid "Plugins actifs"
+msgstr ""
+
+#: widgets/articles-liste.php:1452
+msgid "Plus d'article"
+msgstr ""
+
+#: widgets/articles-liste.php:1251 widgets/instagram-explore.php:751
+#: widgets/instagram-location.php:639 widgets/instagram-user.php:701
+msgid "Plus d'articles"
+msgstr ""
+
+#: widgets/chart.php:173
+msgid "Polaire"
+msgstr ""
+
+#: widgets/chart.php:465 widgets/image-hotspots.php:280
+#: widgets/image-hotspots.php:346 widgets/image-promotion.php:449
+#: widgets/image-ribbon.php:102 widgets/modal-box.php:330
+#: widgets/modal-box.php:548 widgets/off-canvas.php:146
+#: widgets/off-canvas.php:401 widgets/off-canvas.php:815
+#: widgets/reseaux-sociaux.php:242 widgets/slider-pro.php:642
+msgid "Position"
+msgstr ""
+
+#: widgets/off-canvas.php:679
+msgid "Position (%)"
+msgstr ""
+
+#: widgets/image-promotion.php:792 widgets/image-ribbon.php:213
+msgid "Position (px)"
+msgstr ""
+
+#: widgets/chart.php:658
+msgid "Position de l'étiquette"
+msgstr ""
+
+#: widgets/image-hotspots.php:287
+msgid "Position horizontale (%)"
+msgstr ""
+
+#: widgets/image-effects.php:291
+msgid "Position Texte/Liens"
+msgstr ""
+
+#: widgets/image-galerie.php:351
+msgid "Position Titre/Texte"
+msgstr ""
+
+#: widgets/acf-relationship.php:530 widgets/articles-liste.php:1002
+#: widgets/image-galerie.php:711
+msgid "Position verticale"
+msgstr ""
+
+#: widgets/image-effects.php:314 widgets/image-hotspots.php:308
+msgid "Position verticale (%)"
+msgstr ""
+
+#: widgets/image-diaporama.php:213
+msgid "Position verticale de l'image"
+msgstr ""
+
+#: includes/acf/options-page/eac-acf-options-page.php:420
+msgctxt "Post Type General Name"
+msgid "ACF Page d'Options"
+msgstr ""
+
+#: includes/acf/options-page/eac-acf-options-page.php:421
+msgctxt "Post Type Singular Name"
+msgid "ACF Option"
+msgstr ""
+
+#: widgets/image-promotion.php:355
+msgid "Prix de vente"
+msgstr ""
+
+#: widgets/image-promotion.php:348 widgets/image-promotion.php:685
+msgid "Prix du produit"
+msgstr ""
+
+#: admin/settings/eac-components_tab1.php:180 widgets/image-promotion.php:54
+msgid "Promotion de produit"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/user-info.php:59
+msgid "Prénom"
+msgstr ""
+
+#: widgets/html-sitemap.php:329
+msgid "Publication"
+msgstr ""
+
+#: widgets/slider-pro.php:348
+msgid "Puces"
+msgstr ""
+
+#: widgets/modal-box.php:463
+msgid "Quand le popup doit-il apparaître ? (En secondes)"
+msgstr ""
+
+#: widgets/image-diaporama.php:164
+msgid "Qui-ét-ude"
+msgstr ""
+
+#: widgets/chart.php:172
+msgid "Radar"
+msgstr ""
+
+#: widgets/kenburn-slider.php:164
+msgid "Rapide et lente"
+msgstr ""
+
+#: widgets/acf-relationship.php:513 widgets/articles-liste.php:984
+#: widgets/image-galerie.php:694
+msgid "Ratio"
+msgstr ""
+
+#: widgets/acf-relationship.php:474 widgets/articles-liste.php:943
+#: widgets/articles-liste.php:1042 widgets/image-hotspots.php:502
+#: widgets/image-hotspots.php:592 widgets/modal-box.php:809
+#: widgets/modal-box.php:869 widgets/off-canvas.php:879
+msgid "Rayon de la bordure"
+msgstr ""
+
+#: widgets/image-ronde.php:164 widgets/instagram-explore.php:601
+#: widgets/instagram-location.php:505 widgets/instagram-user.php:560
+msgid "Rayon de la bordure (%)"
+msgstr ""
+
+#: admin/settings/eac-components_tab1.php:187 widgets/instagram-search.php:51
+msgid "Recherche Instagram"
+msgstr ""
+
+#: widgets/instagram-search.php:438
+msgid "Recherche profils Instagram (Utilisateur, Hashtag, Lieu)"
+msgstr ""
+
+#: widgets/off-canvas.php:1075
+msgid "Rechercher"
+msgstr ""
+
+#: widgets/image-diaporama.php:156
+msgid "Rel-a-xation"
+msgstr ""
+
+#: widgets/articles-liste.php:383
+msgid "Relation entre les requêtes"
+msgstr ""
+
+#: widgets/image-promotion.php:363
+msgid "Renseigner le prix..."
+msgstr ""
+
+#: widgets/image-effects.php:135 widgets/image-ronde.php:184
+msgid "Renseigner le titre"
+msgstr ""
+
+#: widgets/articles-liste.php:373
+msgid "Requête #1"
+msgstr ""
+
+#: widgets/articles-liste.php:279 widgets/articles-liste.php:368
+msgid "Requêtes"
+msgstr ""
+
+#: widgets/image-ribbon.php:117 widgets/image-ribbon.php:118
+msgid "Ribbon"
+msgstr ""
+
+#: widgets/modal-box.php:1175 widgets/modal-box.php:1184
+msgid "Rien à afficher"
+msgstr ""
+
+#: includes/proxy/proxy_location.php:103 includes/proxy/proxy_location.php:161
+#: includes/proxy/proxy_rss.php:39 includes/proxy/proxy_rss.php:179
+#: includes/proxy/proxy_search.php:48 includes/proxy/proxy_user.php:109
+msgid "Rien à afficher..."
+msgstr ""
+
+#: widgets/image-promotion.php:531
+msgid "Ronde"
+msgstr ""
+
+#: widgets/image-hotspots.php:327
+msgid "Rotation"
+msgstr ""
+
+#: widgets/image-promotion.php:431 widgets/image-promotion.php:464
+#: widgets/image-promotion.php:465 widgets/image-promotion.php:783
+#: widgets/image-ribbon.php:48 widgets/image-ribbon.php:96
+#: widgets/image-ribbon.php:205
+msgid "Ruban"
+msgstr ""
+
+#: widgets/table-of-contents.php:241
+msgid "Réduire le contenu au chargement"
+msgstr ""
+
+#: widgets/html-sitemap.php:300
+msgid "Réglage Archive"
+msgstr ""
+
+#: widgets/html-sitemap.php:476
+msgid "Réglage Article"
+msgstr ""
+
+#: widgets/html-sitemap.php:213
+msgid "Réglage Auteur"
+msgstr ""
+
+#: widgets/html-sitemap.php:270
+msgid "Réglage Page"
+msgstr ""
+
+#: widgets/html-sitemap.php:356
+msgid "Réglage Taxonomie"
+msgstr ""
+
+#: elementor-addon-components.php:133 widgets/acf-relationship.php:145
+#: widgets/articles-liste.php:413 widgets/chart.php:119
+#: widgets/image-diaporama.php:179 widgets/images-comparison.php:176
+#: widgets/kenburn-slider.php:125 widgets/off-canvas.php:139
+#: widgets/reseaux-sociaux.php:236 widgets/site-thumbnail.php:117
+#: widgets/slider-pro.php:191 widgets/table-of-contents.php:142
+msgid "Réglages"
+msgstr ""
+
+#: admin/settings/eac-components_tab1.php:230
+#: admin/settings/eac-components_tab2.php:84
+msgid "Réglages enregistrés"
+msgstr ""
+
+#: admin/settings/eac-components_tab1.php:217 widgets/reseaux-sociaux.php:101
+msgid "Réseaux sociaux"
+msgstr ""
+
+#: widgets/acf-relationship.php:223 widgets/acf-relationship.php:337
+#: widgets/acf-relationship.php:611 widgets/articles-liste.php:540
+#: widgets/articles-liste.php:1089 widgets/image-effects.php:170
+#: widgets/lecteur-rss.php:442 widgets/lecteur-rss.php:633
+#: includes/elementor/dynamic-tags/tags/post-excerpt.php:26
+msgid "Résumé"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/author-info.php:57
+#: includes/elementor/dynamic-tags/tags/user-info.php:56
+msgid "Rôle"
+msgstr ""
+
+#: admin/settings/eac-components.php:274 admin/settings/eac-components.php:353
+msgid "Sauvegarde effectuée"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/post-elementor-tmpl.php:56
+msgid "Section"
+msgstr ""
+
+#: widgets/acf-relationship.php:901 includes/eac-tools.php:291
+#: includes/eac-tools.php:386 includes/eac-tools.php:820
+#: includes/eac-tools.php:838
+#: includes/elementor/dynamic-tags/eac-dynamic-tags.php:217
+#: includes/elementor/dynamic-tags/eac-dynamic-tags.php:262
+#: includes/elementor/dynamic-tags/eac-dynamic-tags.php:361
+#: includes/elementor/dynamic-tags/acf/eac-acf-tags.php:179
+#: includes/elementor/dynamic-tags/acf/eac-acf-tags.php:257
+#: includes/elementor/dynamic-tags/tags/author-info.php:56
+#: includes/elementor/dynamic-tags/tags/post-custom-field-keys.php:55
+#: includes/elementor/dynamic-tags/tags/post-custom-field-values.php:64
+#: includes/elementor/dynamic-tags/tags/site-server.php:46
+#: includes/elementor/dynamic-tags/tags/site-stats.php:53
+#: includes/elementor/dynamic-tags/tags/url-cpt.php:69
+#: includes/elementor/dynamic-tags/tags/user-info.php:54
+#: includes/elementor/dynamic-tags/acf/tags/acf-field-keys.php:53
+#: includes/elementor/dynamic-tags/acf/tags/acf-field-values.php:59
+msgid "Select..."
+msgstr ""
+
+#: widgets/articles-liste.php:286
+msgid "Selection des auteurs"
+msgstr ""
+
+#: widgets/chart.php:445 widgets/chart.php:446
+msgid "Serie ligne"
+msgstr ""
+
+#: includes/proxy/proxy_rss.php:146
+msgid "Service indisponible. Réessayer plus tard."
+msgstr ""
+
+#: includes/elementor/injection/eac-injection-sticky.php:183
+msgid "Seuil inférieur de déclenchement"
+msgstr ""
+
+#: includes/elementor/injection/eac-injection-sticky.php:171
+msgid "Seuil supérieur de déclenchement"
+msgstr ""
+
+#: includes/eac-shortcode.php:130
+#: includes/elementor/dynamic-tags/tags/shortcode-image.php:40
+msgid "Shortcode"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/shortcode-image.php:26
+msgid "Shortcode image"
+msgstr ""
+
+#: widgets/image-hotspots.php:237 widgets/image-hotspots.php:527
+msgid "show"
+msgstr ""
+
+#: widgets/kenburn-slider.php:144
+msgid "Si les images se chevauchent, augmenter le facteur de zoom."
+msgstr ""
+
+#: widgets/table-of-contents.php:220
+msgid "Si les titres ne sont pas uniques dans la page"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/eac-dynamic-tags.php:56
+msgid "Site"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/site-url.php:27
+msgid "Site URL"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/author-info.php:60
+#: includes/elementor/dynamic-tags/tags/user-info.php:63
+msgid "Site Web"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/author-website-url.php:27
+msgid "Site web de l'auteur"
+msgstr ""
+
+#: widgets/html-sitemap.php:178
+msgid "Sitemap Archive"
+msgstr ""
+
+#: widgets/html-sitemap.php:200
+msgid "Sitemap Article"
+msgstr ""
+
+#: widgets/html-sitemap.php:156
+msgid "Sitemap Auteur"
+msgstr ""
+
+#: widgets/html-sitemap.php:167
+msgid "Sitemap Page"
+msgstr ""
+
+#: widgets/html-sitemap.php:189
+msgid "Sitemap Taxonomie"
+msgstr ""
+
+#: widgets/slider-pro.php:168
+msgid "Slide #1"
+msgstr ""
+
+#: widgets/slider-pro.php:172
+msgid "Slide #2"
+msgstr ""
+
+#: widgets/slider-pro.php:176
+msgid "Slide #3"
+msgstr ""
+
+#: widgets/slider-pro.php:180
+msgid "Slide #4"
+msgstr ""
+
+#: widgets/slider-pro.php:53
+msgid "Slider Pro"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/site-tagline.php:26
+msgid "Slogan du site"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/site-stats.php:28
+msgid "Statistiques"
+msgstr ""
+
+#: admin/settings/eac-components_tab2.php:48
+msgid "Sticky Élément"
+msgstr ""
+
+#: widgets/instagram-user.php:760 widgets/instagram-user.php:764
+msgid "Stories"
+msgstr ""
+
+#: widgets/acf-relationship.php:414 widgets/articles-liste.php:789
+#: widgets/image-diaporama.php:241 widgets/image-galerie.php:523
+#: widgets/instagram-explore.php:533 widgets/instagram-location.php:448
+#: widgets/instagram-search.php:309 widgets/instagram-user.php:505
+#: widgets/lecteur-rss.php:555 widgets/pinterest-rss.php:534
+#: widgets/syntax-highlighter.php:173
+msgid "Style"
+msgstr ""
+
+#: widgets/chart.php:251 widgets/chart.php:433
+msgid "Suffixe"
+msgstr ""
+
+#: widgets/instagram-user.php:765
+msgid "Suggestions"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/user-info.php:57
+msgid "Surnom"
+msgstr ""
+
+#: widgets/image-diaporama.php:148
+msgid "Sé-ré-nité"
+msgstr ""
+
+#: widgets/kenburn-slider.php:208
+msgid "Sélection"
+msgstr ""
+
+#: widgets/articles-liste.php:353
+msgid "Sélection des valeurs"
+msgstr ""
+
+#: widgets/image-effects.php:265
+msgid "Sélectionner l'effet d'image"
+msgstr ""
+
+#: widgets/modal-box.php:281 widgets/off-canvas.php:303
+msgid "Sélectionner le déclencheur"
+msgstr ""
+
+#: widgets/articles-liste.php:210
+msgid "Sélectionner les catégories"
+msgstr ""
+
+#: widgets/acf-relationship.php:161
+msgid "Sélectionner les types d'articles"
+msgstr ""
+
+#: widgets/articles-liste.php:223
+msgid "Sélectionner les étiquettes"
+msgstr ""
+
+#: widgets/articles-liste.php:312
+msgid "Sélectionner UNE seule clé"
+msgstr ""
+
+#: widgets/image-effects.php:145
+msgid "Sélectionner une étiquette pour le titre."
+msgstr ""
+
+#: includes/elementor/custom-attributes/eac-custom-attributes.php:67
+msgid ""
+"Séparer la clé de sa valeur avec le caractère pipe '|'<br/>Chaque attribut "
+"sur une ligne distincte."
+msgstr ""
+
+#: widgets/chart.php:324
+msgid "Série"
+msgstr ""
+
+#: widgets/table-of-contents.php:151
+msgid "Table des Matières"
+msgstr ""
+
+#: admin/settings/eac-components_tab1.php:96 widgets/table-of-contents.php:52
+msgid "Table des matières"
+msgstr ""
+
+#: widgets/pinterest-rss.php:146
+msgid "Tableau"
+msgstr ""
+
+#: widgets/instagram-explore.php:132 widgets/instagram-user.php:127
+msgid "TAG"
+msgstr ""
+
+#: widgets/instagram-user.php:766
+msgid "Tagged Posts"
+msgstr ""
+
+#: widgets/chart.php:571
+msgid "Taille de la police"
+msgstr ""
+
+#: widgets/html-sitemap.php:849
+msgid "Taxonomie"
+msgstr ""
+
+#: widgets/html-sitemap.php:366
+msgid "Taxonomies"
+msgstr ""
+
+#. Author of the plugin
+msgid "Team EAC"
+msgstr ""
+
+#: widgets/html-sitemap.php:631 widgets/image-effects.php:397
+#: widgets/image-galerie.php:204 widgets/image-galerie.php:627
+#: widgets/image-hotspots.php:216 widgets/image-hotspots.php:267
+#: widgets/image-promotion.php:302 widgets/image-promotion.php:381
+#: widgets/image-promotion.php:462 widgets/image-ribbon.php:115
+#: widgets/modal-box.php:285 widgets/modal-box.php:450
+#: widgets/off-canvas.php:306 widgets/off-canvas.php:426
+#: widgets/reseaux-sociaux.php:254 widgets/slider-pro.php:139
+#: widgets/slider-pro.php:529
+msgid "Texte"
+msgstr ""
+
+#: widgets/modal-box.php:182 widgets/off-canvas.php:194
+#: widgets/off-canvas.php:195
+msgid "Texte de l'entête"
+msgstr ""
+
+#: widgets/modal-box.php:295
+msgid "Texte du bouton"
+msgstr ""
+
+#: widgets/reseaux-sociaux.php:255
+msgid "Texte du partage"
+msgstr ""
+
+#: widgets/image-hotspots.php:454 widgets/modal-box.php:931
+#: widgets/off-canvas.php:895
+msgid "Texte déclencheur"
+msgstr ""
+
+#: widgets/modal-box.php:198 widgets/off-canvas.php:209
+msgid "Texte personnalisé"
+msgstr ""
+
+#: widgets/articles-liste.php:748
+msgid "Texte à droite"
+msgstr ""
+
+#: widgets/articles-liste.php:763
+msgid "Texte à gauche"
+msgstr ""
+
+#: widgets/acf-relationship.php:284 widgets/acf-relationship.php:546
+#: widgets/articles-liste.php:303 widgets/articles-liste.php:529
+#: widgets/articles-liste.php:887 widgets/html-sitemap.php:221
+#: widgets/html-sitemap.php:278 widgets/html-sitemap.php:308
+#: widgets/html-sitemap.php:364 widgets/html-sitemap.php:484
+#: widgets/html-sitemap.php:674 widgets/image-diaporama.php:135
+#: widgets/image-diaporama.php:257 widgets/image-effects.php:134
+#: widgets/image-effects.php:306 widgets/image-galerie.php:193
+#: widgets/image-galerie.php:366 widgets/image-galerie.php:587
+#: widgets/image-hotspots.php:201 widgets/image-promotion.php:248
+#: widgets/image-promotion.php:255 widgets/image-promotion.php:599
+#: widgets/image-ronde.php:176 widgets/image-ronde.php:183
+#: widgets/image-ronde.php:350 widgets/instagram-explore.php:125
+#: widgets/instagram-location.php:124 widgets/instagram-user.php:120
+#: widgets/lecteur-audio.php:119 widgets/lecteur-rss.php:129
+#: widgets/lecteur-rss.php:601 widgets/modal-box.php:179
+#: widgets/off-canvas.php:191 widgets/pinterest-rss.php:119
+#: widgets/pinterest-rss.php:577 widgets/slider-pro.php:132
+#: widgets/slider-pro.php:423 widgets/table-of-contents.php:149
+#: includes/eac-tools.php:697
+#: includes/elementor/dynamic-tags/tags/featured-image-data.php:54
+msgid "Titre"
+msgstr ""
+
+#: widgets/chart.php:191 widgets/chart.php:226 widgets/chart.php:398
+msgid "Titre de l'axe"
+msgstr ""
+
+#: widgets/image-ronde.php:186
+msgid "Titre du composant"
+msgstr ""
+
+#: widgets/chart.php:152
+msgid "Titre du diagramme"
+msgstr ""
+
+#: widgets/image-effects.php:127
+msgid "Titre et texte"
+msgstr ""
+
+#: widgets/table-of-contents.php:356
+msgid "TOC Contenu"
+msgstr ""
+
+#: widgets/table-of-contents.php:311
+msgid "TOC Entête"
+msgstr ""
+
+#: widgets/instagram-explore.php:770 widgets/instagram-location.php:658
+#: widgets/instagram-user.php:722
+msgid "Top publications"
+msgstr ""
+
+#: widgets/slider-pro.php:588
+msgid "Toujours visibles"
+msgstr ""
+
+#: widgets/image-galerie.php:1035 widgets/image-galerie.php:1044
+#: includes/eac-helpers.php:374 includes/eac-helpers.php:386
+#: includes/eac-helpers.php:461 includes/eac-helpers.php:470
+#: includes/eac-helpers.php:519 includes/eac-helpers.php:528
+msgid "Tous"
+msgstr ""
+
+#: includes/acf/options-page/eac-acf-options-page.php:426
+msgid "Toutes les Pages d'Options"
+msgstr ""
+
+#: widgets/image-diaporama.php:168
+msgid "Tranq-uil-lité"
+msgstr ""
+
+#: widgets/kenburn-slider.php:156
+msgid "Transition"
+msgstr ""
+
+#: widgets/slider-pro.php:382
+msgid "Transition des images"
+msgstr ""
+
+#: widgets/chart.php:610
+msgid "Transparence des couleurs"
+msgstr ""
+
+#: widgets/instagram-explore.php:346 widgets/instagram-location.php:261
+#: widgets/instagram-user.php:313
+msgid "Trier par"
+msgstr ""
+
+#: widgets/articles-liste.php:498 widgets/html-sitemap.php:452
+#: widgets/html-sitemap.php:572
+msgid "Triés par"
+msgstr ""
+
+#: widgets/kenburn-slider.php:209
+msgid "Très consommateur de ressources..."
+msgstr ""
+
+#: widgets/modal-box.php:540
+msgid "Tube"
+msgstr ""
+
+#: widgets/image-hotspots.php:210
+#: includes/acf/options-page/eac-acf-options-page.php:484
+#: includes/elementor/dynamic-tags/tags/post-elementor-tmpl.php:51
+msgid "Type"
+msgstr ""
+
+#: widgets/articles-liste.php:193 widgets/articles-liste.php:199
+#: widgets/html-sitemap.php:344
+msgid "Type d'article"
+msgstr ""
+
+#: widgets/modal-box.php:191 widgets/off-canvas.php:202
+msgid "Type de contenu"
+msgstr ""
+
+#: widgets/modal-box.php:193 widgets/off-canvas.php:204
+msgid "Type de contenu à afficher"
+msgstr ""
+
+#: widgets/chart.php:163
+msgid "Type de diagramme"
+msgstr ""
+
+#: widgets/image-effects.php:190 widgets/image-promotion.php:390
+#: widgets/image-ronde.php:221
+msgid "Type de lien"
+msgstr ""
+
+#: widgets/articles-liste.php:328
+msgid "Type des données"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/site-stats.php:63
+msgid "Types d'articles personnalisés"
+msgstr ""
+
+#: widgets/acf-relationship.php:567 widgets/acf-relationship.php:601
+#: widgets/acf-relationship.php:635 widgets/articles-liste.php:877
+#: widgets/articles-liste.php:926 widgets/articles-liste.php:1124
+#: widgets/html-sitemap.php:664 widgets/html-sitemap.php:698
+#: widgets/image-diaporama.php:294 widgets/image-effects.php:387
+#: widgets/image-effects.php:422 widgets/image-galerie.php:617
+#: widgets/image-galerie.php:648 widgets/image-galerie.php:751
+#: widgets/image-hotspots.php:476 widgets/image-hotspots.php:641
+#: widgets/image-promotion.php:621 widgets/image-promotion.php:652
+#: widgets/image-promotion.php:718 widgets/image-promotion.php:761
+#: widgets/image-promotion.php:840 widgets/image-ribbon.php:265
+#: widgets/image-ribbon.php:337 widgets/image-ronde.php:387
+#: widgets/images-comparison.php:268 widgets/instagram-explore.php:656
+#: widgets/instagram-location.php:560 widgets/instagram-search.php:377
+#: widgets/instagram-user.php:615 widgets/lecteur-rss.php:622
+#: widgets/lecteur-rss.php:654 widgets/modal-box.php:741
+#: widgets/modal-box.php:775 widgets/modal-box.php:954
+#: widgets/modal-box.php:1009 widgets/off-canvas.php:564
+#: widgets/off-canvas.php:626 widgets/off-canvas.php:670
+#: widgets/off-canvas.php:844 widgets/off-canvas.php:918
+#: widgets/pinterest-rss.php:598 widgets/pinterest-rss.php:630
+#: widgets/site-thumbnail.php:247 widgets/slider-pro.php:496
+#: widgets/slider-pro.php:570 widgets/syntax-highlighter.php:220
+msgid "Typographie"
+msgstr ""
+
+#: widgets/table-of-contents.php:378
+msgid "Typographie des entrées"
+msgstr ""
+
+#: widgets/off-canvas.php:781
+msgid "Typographie du texte"
+msgstr ""
+
+#: widgets/modal-box.php:672 widgets/off-canvas.php:722
+#: widgets/table-of-contents.php:333
+msgid "Typographie du titre"
+msgstr ""
+
+#: widgets/instagram-explore.php:394 widgets/instagram-location.php:309
+#: widgets/instagram-user.php:361
+msgid "Téléchargement vidéo"
+msgstr ""
+
+#: widgets/chart.php:208
+msgid "Un,Deux,Trois,Quatre,Cinq,Six"
+msgstr ""
+
+#: widgets/articles-liste.php:1031
+msgid "Uniquement pour les Gravatars"
+msgstr ""
+
+#: widgets/chart.php:136 widgets/image-effects.php:195
+#: widgets/image-effects.php:203 widgets/image-galerie.php:215
+#: widgets/image-promotion.php:395 widgets/image-promotion.php:403
+#: widgets/image-ribbon.php:125 widgets/image-ronde.php:226
+#: widgets/image-ronde.php:247 widgets/lecteur-audio.php:126
+#: widgets/lecteur-rss.php:136 widgets/modal-box.php:223
+#: widgets/pinterest-rss.php:126 widgets/site-thumbnail.php:124
+#: includes/elementor/dynamic-tags/tags/url-image-widget.php:46
+msgid "URL"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/featured-image-data.php:59
+msgid "URL de l'Attachement"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/featured-image-data.php:58
+msgid "URL de l'image"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/site-stats.php:56
+msgid "URL du site"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/eac-dynamic-tags.php:55
+msgid "URLs"
+msgstr ""
+
+#: widgets/instagram-search.php:445 widgets/pinterest-rss.php:138
+msgid "Utilisateur"
+msgstr ""
+
+#: admin/settings/eac-components_tab1.php:194 widgets/instagram-user.php:53
+msgid "Utilisateur Instagram"
+msgstr ""
+
+#: includes/elementor/custom-css/eac-custom-css.php:85
+msgid ""
+"Utiliser 'selector' pour le container.<br>\n"
+"\t\t\t\t\tselector {color: red;} // Pour l'élément principal<br>\n"
+"\t\t\t\t\tselector .child-element {margin: 10px;} // Pour un élément fils<br>"
+"\n"
+"\t\t\t\t\t.my-class {text-align:center;} // .my-class dans la page<br>\n"
+"\t\t\t\t\tselector .my-class {text-align:center;} // .my-class pour un seul "
+"élément"
+msgstr ""
+
+#: includes/eac-tools.php:701
+msgid "Valeur meta numérique"
+msgstr ""
+
+#: widgets/chart.php:650
+#: includes/elementor/dynamic-tags/acf/tags/acf-field-values.php:69
+msgid "Valeurs"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/post-custom-field-values.php:43
+msgid "Valeurs des champs personnalisés"
+msgstr ""
+
+#: widgets/image-galerie.php:159
+#: includes/elementor/injection/eac-injection-image.php:67
+#: includes/elementor/injection/eac-injection-image.php:103
+msgid "Valoriser l'attribut 'ALT' pour une image externe (SEO)"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/site-server.php:28
+msgid "Variables serveur"
+msgstr ""
+
+#: widgets/modal-box.php:539
+msgid "Vers la droite"
+msgstr ""
+
+#: widgets/modal-box.php:538
+msgid "Vers la gauche"
+msgstr ""
+
+#: widgets/modal-box.php:536
+msgid "Vers le bas"
+msgstr ""
+
+#: widgets/modal-box.php:537
+msgid "Vers le haut"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/site-stats.php:55
+msgid "Version PHP"
+msgstr ""
+
+#: includes/elementor/dynamic-tags/tags/site-stats.php:54
+msgid "Version Wordpress"
+msgstr ""
+
+#: widgets/slider-pro.php:647
+msgid "Verticale"
+msgstr ""
+
+#: widgets/instagram-search.php:240
+msgid "Ville"
+msgstr ""
+
+#: widgets/chart.php:204
+msgid "Virgule pour séparer les valeurs"
+msgstr ""
+
+#: widgets/chart.php:331 widgets/chart.php:455
+msgid "Virgule pour séparer les valeurs<br>Point comme séparateur de décimal"
+msgstr ""
+
+#: widgets/articles-liste.php:657 widgets/image-effects.php:242
+#: widgets/image-galerie.php:447 widgets/image-promotion.php:234
+#: widgets/image-ronde.php:300 widgets/instagram-explore.php:455
+#: widgets/instagram-location.php:370 widgets/instagram-user.php:444
+#: widgets/lecteur-rss.php:477 widgets/pinterest-rss.php:458
+msgid "Visionneuse"
+msgstr ""
+
+#: widgets/kenburn-slider.php:157
+msgid "Vitesse de transition. Début/Fin"
+msgstr ""
+
+#: widgets/slider-pro.php:247
+msgid "Voir plusieurs slides"
+msgstr ""
+
+#: includes/acf/options-page/eac-acf-options-page.php:432
+msgid "Voir une Page d'Options"
+msgstr ""
+
+#: widgets/modal-box.php:418
+msgid "Votre légende personnalisée"
+msgstr ""
+
+#: widgets/image-effects.php:173 widgets/image-hotspots.php:269
+#: widgets/image-hotspots.php:270
+msgid "Votre texte"
+msgstr ""
+
+#: widgets/image-promotion.php:256 widgets/image-promotion.php:257
+msgid "Votre titre"
+msgstr ""
+
+#: widgets/modal-box.php:589 widgets/off-canvas.php:511
+msgid "Vous avez sélectionné une couleur et une image"
+msgstr ""
+
+#: widgets/articles-liste.php:706 widgets/image-galerie.php:295
+msgid "Vous pouvez activer/désactiver un ratio sur les images 'Style/Image'"
+msgstr ""
+
+#: widgets/off-canvas.php:212
+msgid "Widget"
+msgstr ""
+
+#: widgets/off-canvas.php:282
+msgid "Widgets"
+msgstr ""
+
+#: widgets/image-promotion.php:364
+msgid "XXX €"
+msgstr ""
+
+#: widgets/kenburn-slider.php:218
+msgid "Zoom externe"
+msgstr ""
+
+#: widgets/kenburn-slider.php:217
+msgid "Zoom interne"
+msgstr ""
+
+#: widgets/chart.php:663 widgets/image-galerie.php:356
+msgid "À l'extérieur"
+msgstr ""
+
+#: widgets/chart.php:662 widgets/image-galerie.php:355
+msgid "À l'intérieur"
+msgstr ""
+
+#: widgets/image-promotion.php:312
+msgid "Élément inclus"
+msgstr ""
+
+#: widgets/image-promotion.php:328
+msgid "Élément liste #1"
+msgstr ""
+
+#: widgets/image-promotion.php:331
+msgid "Élément liste #2"
+msgstr ""
+
+#: widgets/image-promotion.php:334
+msgid "Élément liste #3"
+msgstr ""
+
+#: widgets/image-promotion.php:337
+msgid "Élément liste #4"
+msgstr ""
+
+#: widgets/image-promotion.php:292
+msgid "Éléments"
+msgstr ""
+
+#: widgets/image-diaporama.php:152
+msgid "Équ-a-nimité"
+msgstr ""
+
+#: widgets/acf-relationship.php:291 widgets/articles-liste.php:894
+#: widgets/image-diaporama.php:264 widgets/image-promotion.php:265
+#: widgets/image-ronde.php:194 widgets/images-comparison.php:130
+#: widgets/images-comparison.php:164 widgets/slider-pro.php:431
+msgid "Étiquette"
+msgstr ""
+
+#: widgets/images-comparison.php:166
+msgid "Étiquette de droite"
+msgstr ""
+
+#: widgets/images-comparison.php:132
+msgid "Étiquette de gauche"
+msgstr ""
+
+#: widgets/chart.php:321 widgets/chart.php:443
+msgid "Étiquette de la série"
+msgstr ""
+
+#: widgets/image-effects.php:144
+msgid "Étiquette de titre"
+msgstr ""
+
+#: widgets/image-galerie.php:373
+msgid "Étiquette du titre"
+msgstr ""
+
+#: widgets/articles-liste.php:564 widgets/images-comparison.php:228
+#: includes/elementor/dynamic-tags/tags/site-stats.php:69
+msgid "Étiquettes"
+msgstr ""

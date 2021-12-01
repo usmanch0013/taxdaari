@@ -1,0 +1,22 @@
+
+/** La boîte warning dans le panel de l'éditeur Elementor */
+.eac-editor-panel_warning {
+	font-size: 13px;
+    line-height: 1.4em;
+    background-color: #f3f0ca;
+    color: #886726;
+    padding: 10px;
+    border-radius: 3px;
+	border: none;
+}
+
+/** La boîte d'information dans le panel de l'éditeur Elementor */
+.eac-editor-panel_info {
+	font-size: 13px;
+    line-height: 1.4em;
+    background-color: #A1CAE2;
+    color: #FFFFFF;
+    padding: 10px;
+    border-radius: 3px;
+	border: none;
+}

@@ -1,0 +1,67 @@
+
+.image-ronde {
+	position: relative;
+	z-index: auto;
+}
+
+.image-ronde a {
+	text-decoration: none !important;
+	outline: 0 none !important;
+	line-height: 0;
+}
+
+.image-ronde-wrapper {
+	position: relative;
+	z-index: auto;
+}
+
+.image-ronde h2,
+.image-ronde h3,
+.image-ronde h4,
+.image-ronde h5,
+.image-ronde h6,
+.image-ronde p {
+	margin-top: 0 !important;
+}
+
+.image-ronde figure {
+	overflow: hidden;
+}
+
+.image-ronde figure img {
+	/*border-radius: 50%;*/
+}
+
+.image-ronde .icon-wrapper {
+	position: absolute;
+	z-index: 10;
+	left: 50%;
+	top: 85%;
+	transform: translate(-50%, -85%);
+	line-height: 0;
+}
+
+.image-ronde .titre-wrapper {
+	display: block;
+	position: relative;
+	z-index: auto;
+	line-height: 1.6em;
+	width: 100%;
+}
+
+.image-ronde .titre-wrapper .titre-wrapper-format {
+	color: #000;
+	font-size: 1.4em;
+}
+
+.image-ronde .link-lightbox {
+	padding-left: 0.1em;
+}
+
+.image-ronde .icon-wrapper a:hover i {
+ -webkit-transform: scale(1.1);
+ transform: scale(1.1);
+  
+ -webkit-transition: all 0.2s linear;
+ transition: all 0.2s linear;
+}

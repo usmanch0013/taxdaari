@@ -1,0 +1,303 @@
+
+.eac-insta-search {
+  padding: 5px;
+  background-color: #FFF;
+  -webkit-box-shadow: 0 0 10px rgba(0,0,0, .65);
+  box-shadow: 0 0 10px rgba(0,0,0, .65);
+  -webkit-border-radius: 7px;
+  border-radius: 7px;
+}
+
+.eac-insta-search a,
+.eac-insta-search a:visited,
+.eac-insta-search a:active,
+.insta-search__sendto-user span,
+.insta-search__sendto-explore span,
+.insta-search__sendto-location span {
+	text-decoration: none !important;
+	outline: 0 none !important;
+}
+
+.insta-search:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+/*-----------------------------*/
+/* Formate le wrapper options, champ texte, bouton et loader */
+.insta-search__select-item-list {
+	text-align: center;
+	margin: 1em auto;
+}
+
+.insta-search__select-item-list::after {
+	content: '';
+	border-top: 1px solid #007cba;
+	border-top: 1px solid var(--eac-color-primary);
+	width: 40%;
+	max-width: 40%;
+	display: block;
+	margin: 10px auto;
+}
+
+/* Formate la liste (Select & Input) des flux RSS */
+#insta-search__options-items, #insta-search__item-name {
+	font-size: .9em;
+	background-color: var(--eac-bg-input);
+	height: 2.2em;
+	/*line-height: 2.2em;*/
+	width: 20em;
+	padding: 0 5px;
+	border-radius: 5px;
+	border-color: #007cba;
+	box-shadow: 0 0 0 1px #007cba;
+	border-color: var(--eac-color-primary);
+	box-shadow: 0 0 0 1px var(--eac-color-primary);
+	-webkit-appearance: none;
+	appearance: none;
+}
+
+input::placeholder {
+	color: gray;
+	font-style: italic;
+}
+
+.insta-search__options-items {
+	max-width: none;
+	min-width: unset;
+}
+
+/* Formate l'input texte */
+.insta-search__select-item {
+	display: inline-block;
+	margin-top: 10px;
+}
+
+/*-----------------------------*/
+/* Le bandeau supérieur */
+.insta-search__options-items-info {
+	margin-bottom: 10px;
+}
+
+.insta-search__options-items-info h2 {
+	font-size: 0.9em;
+	line-height: 1.3em;
+	margin: 0;
+}
+
+.insta-search__options-items-info p {
+	font-size:0.75em;
+	font-style:italic;
+	color: #919ca7;
+	line-height: normal;
+}
+
+/* Le span pour les erreurs */
+.insta-search__header > span {
+	display: block;
+	line-height: 1.3em;
+	font-size: 0.9em;
+	text-align: center;
+	word-wrap: break-word;
+	margin-bottom: 10px;
+}
+
+/*-----------------------------*/
+/* Radio button */
+.insta-search__container-rb {
+	margin: 10px auto 0;
+}
+
+.insta-search__container-rb input {
+	vertical-align: middle;
+	margin-top: -2px;
+}
+
+.insta-search__container-rb label {
+	border:1px solid #efefef;
+	padding:5px;
+	font-size: 0.85em;
+	line-height: 1.3em;
+	color: #919ca7;
+	font-weight: unset;
+}
+
+/*-----------------------------*/
+/* Formate les items */
+.insta-search__item {
+	float: left;
+	line-height: 0;
+}
+
+.insta-search__item-content {
+	line-height: 0;
+	margin: 5px;
+}
+
+.insta-search__item-content {
+	display:flex;
+	flex-direction:row;
+	justify-content:flex-start;
+	align-items:center;
+}
+
+.insta-search__item-description {
+	font-size: 0.75em;
+	line-height: 1.3em;
+	color: #919ca7;
+	font-weight: unset;
+	margin-left: 10px;
+}
+
+.insta-search__item-description .insta-search__isverified {
+	color: #00bfff;
+	margin-left: 5px;
+	vertical-align: unset;
+}
+
+.insta-search__item-description i {
+	margin-right: 5px;
+}
+
+.insta-search__item-description div a {
+	word-break: break-all;
+}
+
+/* Formate l'image pour username et hashtag */
+.insta-search__item-image img{
+	border-radius: 50%;
+	width: 100px;
+	height: auto;
+}
+
+/* Formate la font awesome pour la place */
+.insta-search__item-image.font-awesome {
+	width: 100px;
+	height: auto;
+	border-radius: 50%;
+	background-color: #d3d6df;
+	text-align: center;
+	line-height: 0;
+	flex: 0 0 auto;
+}
+
+.insta-search__item-image.font-awesome span {
+	display: block;
+}
+
+.insta-search__item-image.font-awesome i {
+	font-size: 3em;
+	margin: 50% auto;
+	color: white;
+	line-height: 0;
+}
+
+/* Souris pointer pour les div d'envoi d'info */
+.insta-search__sendto-user, .insta-search__sendto-explore, .insta-search__sendto-location {
+	cursor: pointer;
+}
+
+.insta-search__error {
+	margin-top: 10px;
+	text-align:center;
+	line-height: 1.3em;
+}
+
+.insta-search__error span {
+	word-break:break-word;
+	font-size: .8em;
+}
+
+/*-----------------------------*/
+/* Les styles */
+.insta-search__item-content.style-0,
+.insta-search__item-content.style-1,
+.insta-search__item-content.style-2,
+.insta-search__item-content.style-3,
+.insta-search__item-content.style-4,
+.insta-search__item-content.style-5,
+.insta-search__item-content.style-6,
+.insta-search__item-content.style-7,
+.insta-search__item-content.style-8 {
+  background-color: #fff;
+  padding: 3px 0 3px 3px;
+}
+
+.insta-search__item-content.style-0 {
+	/**/
+}
+
+.insta-search__item-content.style-1 {
+  border: solid 1px #EFEFEF;
+  -webkit-box-shadow: 1px 1px 5px #999;
+  box-shadow: 1px 1px 5px #999;
+}
+
+.insta-search__item-content.style-2 {
+  -webkit-border-radius: 0px 0px 5px 5px;
+  border: 1px groove #4a164a;
+  -webkit-box-shadow: 1px 1px 5px 2px #656565;
+  box-shadow: 1px 1px 5px 2px #656565;
+}
+
+.insta-search__item-content.style-3 {
+  -webkit-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
+}
+
+.insta-search__item-content.style-4 {
+  -webkit-box-shadow: 0 20px 25px -12px rgba(0, 0, 0, 0.6);
+  box-shadow: 0 20px 25px -12px rgba(0, 0, 0, 0.6);
+}
+
+.insta-search__item-content.style-5 {
+ -webkit-border-radius: 5px 5px 5px 5px;
+ border-radius: 5px 5px 5px 5px;
+ -webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.7);
+ box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.7);
+}
+
+.insta-search__item-content.style-6{
+ border: 5px solid;
+ border-image: radial-gradient(rgb(0,143,104), rgb(250,224,66)) 1;
+}
+
+.insta-search__item-content.style-7 {
+ border: 5px solid;
+ border-image: linear-gradient(to bottom, #3acfd5 0%, #3a4ed5 100%) 1;
+}
+
+.insta-search__item-content.style-8 {
+ border: 5px solid;
+ border-image: linear-gradient(45deg, rgb(0,143,104), rgb(250,224,66)) 1;
+}
+
+/*-----------------------------*/
+/* Formate les points de rupture */
+@media (min-width: 1024px) {
+	.insta-search.desktop-column-1 .insta-search__item, .insta-search.desktop-column-1 .insta-search__item-sizer { width:100%; }
+	.insta-search.desktop-column-2 .insta-search__item, .insta-search.desktop-column-2 .insta-search__item-sizer { width:50%; }
+	.insta-search.desktop-column-3 .insta-search__item, .insta-search.desktop-column-3 .insta-search__item-sizer { width:33.3333%; }
+	.insta-search.desktop-column-4 .insta-search__item, .insta-search.desktop-column-4 .insta-search__item-sizer { width:25%; }
+	.insta-search.desktop-column-5 .insta-search__item, .insta-search.desktop-column-5 .insta-search__item-sizer { width:20%; }
+	.insta-search.desktop-column-6 .insta-search__item, .insta-search.desktop-column-6 .insta-search__item-sizer { width:16.6666%; }
+}
+
+@media (max-width: 1023px) {
+	.insta-search.tablet-column-1 .insta-search__item, .insta-search.tablet-column-1 .insta-search__item-sizer { width:100%; }
+	.insta-search.tablet-column-2 .insta-search__item, .insta-search.tablet-column-2 .insta-search__item-sizer { width:50%; }
+	.insta-search.tablet-column-3 .insta-search__item, .insta-search.tablet-column-3 .insta-search__item-sizer { width:33.3333%; }
+	.insta-search.tablet-column-4 .insta-search__item, .insta-search.tablet-column-4 .insta-search__item-sizer { width:25%; }
+	.insta-search.tablet-column-5 .insta-search__item, .insta-search.tablet-column-5 .insta-search__item-sizer { width:20%; }
+	.insta-search.tablet-column-6 .insta-search__item, .insta-search.tablet-column-6 .insta-search__item-sizer { width:16.6666%; }
+}
+
+@media (max-width: 767px) {
+	.insta-search.mobile-column-1 .insta-search__item, .insta-search.mobile-column-1 .insta-search__item-sizer { width:100%; }
+	.insta-search.mobile-column-2 .insta-search__item, .insta-search.mobile-column-2 .insta-search__item-sizer { width:50%; }
+	.insta-search.mobile-column-3 .insta-search__item, .insta-search.mobile-column-3 .insta-search__item-sizer { width:33.3333%; }
+	.insta-search.mobile-column-4 .insta-search__item, .insta-search.mobile-column-4 .insta-search__item-sizer { width:25%; }
+	.insta-search.mobile-column-5 .insta-search__item, .insta-search.mobile-column-5 .insta-search__item-sizer { width:20%; }
+	.insta-search.mobile-column-6 .insta-search__item, .insta-search.mobile-column-6 .insta-search__item-sizer { width:16.6666%; }
+}

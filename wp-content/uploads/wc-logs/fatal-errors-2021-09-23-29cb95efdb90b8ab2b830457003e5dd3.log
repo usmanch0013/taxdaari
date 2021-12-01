@@ -1,0 +1,6 @@
+2021-09-23T07:55:13+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 9441280 bytes) in /home/maximuss/taxdaari.maximus-seo.com/wp-includes/functions.php on line 4133
+
+2021-09-23T07:58:07+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 9441280 bytes) in /home/maximuss/taxdaari.maximus-seo.com/wp-includes/functions.php on line 4133
+
+2021-09-23T08:00:49+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 9441280 bytes) in /home/maximuss/taxdaari.maximus-seo.com/wp-includes/functions.php on line 4133
+

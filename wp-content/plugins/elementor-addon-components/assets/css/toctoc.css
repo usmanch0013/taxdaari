@@ -1,0 +1,83 @@
+
+body, html {
+  scroll-behavior: smooth;
+}
+
+.eac-table-of-content {
+	display: flex;
+}
+
+#toctoc {
+	width: 100%;
+	margin-bottom: 2em;
+	text-align: left;
+}
+
+.toctoc-jump-link {
+	scroll-margin-top: 3em;
+}
+
+#toctoc #toctoc-head {
+	padding: 0.5em 1em;
+	display: flex;
+	justify-content: space-between;
+	cursor: pointer;
+}
+
+#toctoc #toctoc-head a:hover {
+	opacity: 0.9;
+}
+
+#toctoc #toctoc-body {
+	padding: 0.5em 1em;
+	line-height: 1em;
+	border: 2px solid black;
+}
+
+#toctoc #toctoc-body .link {
+	font-size: .8em;
+	margin: 0.2em 0;
+}
+
+#toctoc #toctoc-body .active {
+	color: red !important;
+	/*font-weight: 600;*/
+}
+
+#toctoc #toctoc-body a {
+	display: flex;
+	align-items: center;
+	gap: 0.4em;
+}
+
+/*#toctoc #toctoc-body a:hover {
+	font-weight: 600;
+}*/
+
+#toctoc #toctoc-body p i {
+	margin-right: .2em;
+}
+
+#toctoc #toctoc-body .link-h2 {
+	padding-left: 1em;
+}
+
+#toctoc #toctoc-body .link-h3 {
+	padding-left: 2em;
+}
+
+#toctoc #toctoc-body .link-h4 {
+	padding-left: 3em;
+}
+
+#toctoc #toctoc-body .link-h5 {
+	padding-left: 4em;
+}
+
+#toctoc #toctoc-body .link-h6 {
+	padding-left: 5em;
+}
+
+#toctoc a {
+	text-decoration: none;
+}

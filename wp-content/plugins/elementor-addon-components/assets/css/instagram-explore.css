@@ -1,0 +1,608 @@
+
+.eac-insta-explore {
+	padding: 5px;
+	background-color: #FFF;
+	-webkit-box-shadow: 0 0 10px rgba(0,0,0, .65);
+	box-shadow: 0 0 10px rgba(0,0,0, .65);
+	-webkit-border-radius: 7px;
+	border-radius: 7px;
+}
+
+.eac-insta-explore a, .eac-insta-explore a:visited, .eac-insta-explore a:active {
+	text-decoration: none !important;
+	outline: 0 none !important;
+}
+
+.insta-explore:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+/*-----------------------------*/
+/* Formate le wrapper options, champ texte, bouton et loader */
+.insta-explore__select-item-list {
+	text-align: center;
+	margin: 1em auto;
+}
+
+.insta-explore__select-item-list::after {
+	content: '';
+	border-top: 1px solid #007cba;
+	border-top: 1px solid var(--eac-color-primary);
+	width: 40%;
+	max-width: 40%;
+	display: block;
+	margin: 10px auto;
+}
+
+/* Formate la liste (Select & Input) des flux RSS */
+#insta-explore__options-items, #insta-explore__item-name {
+	font-size: .9em;
+	background-color: var(--eac-bg-input);
+	height: 2.2em;
+	/*line-height: 2.2em;*/
+	width: 20em;
+	padding: 0 5px;
+	white-space: nowrap;
+	border-radius: 5px;
+	border-color: #007cba;
+	box-shadow: 0 0 0 1px #007cba;
+	border-color: var(--eac-color-primary);
+	box-shadow: 0 0 0 1px var(--eac-color-primary);
+	-webkit-appearance: none;
+	appearance: none;
+}
+
+.insta-explore__options-items {
+	max-width: none;
+	min-width: unset;
+}
+
+/* Formate la liste des options et le champ texte */
+.insta-explore__options-items-list, .insta-explore__select-item {
+	display: inline-block;
+	margin-top: 10px;
+}
+
+/*-----------------------------*/
+.insta-explore__options-items-info {
+	/*margin-bottom: 10px;*/
+}
+
+.insta-explore__options-items-info h2 {
+	font-size: 0.9em;
+	line-height: 1.3em;
+	margin: 0;
+}
+
+.insta-explore__options-items-info  p {
+	font-size:0.75em;
+	font-style:italic;
+	color: #919ca7;
+	line-height: normal;
+}
+
+.insta-explore__options-items-info  i {
+	color: #763572;
+}
+
+/*------------------------------*/
+.insta-explore__header {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-direction: row;
+	margin-bottom: 10px;
+}
+
+/* Le span pour les erreurs */
+.insta-explore__header > span {
+	display: block;
+	line-height: 1.3em;
+	font-size: 0.9em;
+	text-align: center;
+	word-wrap: break-word;
+}
+
+.insta-explore__header-img {
+	flex: 0 0 auto;
+}
+
+.insta-explore__header img {
+	border-radius: 50%;
+}
+
+.insta-explore__header h3 {
+	font-weight: 800;
+	text-shadow: -1px -1px 1px #fff, 1px 1px 1px #000;
+	color: #9c8468;
+	opacity: 0.3;
+	font: 1.7em 'Museo700';
+}
+
+@media (max-width: 460px) {
+    .insta-explore__header h3 {
+        font-size: 1.2em;
+        /*width: 300px;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;*/
+    }
+}
+
+.insta-explore__header-content {
+	margin-left: 10px;
+	border-left: 5px solid #007cba;
+	border-left: 5px solid var(--eac-color-primary);
+	padding: 10px;
+	background-color: var(--eac-bg-head-color);
+	line-height: 1.3em;
+	border-radius: 8px;
+}
+
+.insta-explore__header-content span {
+	margin-right: 5px;
+}
+
+.insta-explore__header-content span i {
+	margin-right: 2px;
+}
+
+.insta-explore__header .insta-explore__header-info {
+	font-size: 0.85em;
+	color: #919ca7;
+	font-weight: unset;
+}
+
+.insta-explore__error {
+	margin-top: 10px;
+	text-align:center;
+	line-height: 1.3em;
+}
+
+.insta-explore__error span {
+	word-break:break-word;
+	font-size: .8em;
+}
+
+/*-----------------------------*/
+/* Mise en forme de la div cachée qui alimente la fancybox */
+.insta-explore__container-hidden-content {
+	display: none;
+	overflow: visible;
+}
+
+.insta-explore__container-hidden-content > div {
+  overflow: auto;
+}
+
+.insta-explore__container-hidden-content p {
+	margin-bottom: 5px;
+	text-align: center;
+	font-size:0.9em;
+	font-style:italic;
+	font-weight: 800;
+}
+
+/* Paragraphe (<p>) ajouter dans la fancybox */
+.insta-explore__hd-mention,
+.insta-explore__hd-likes,
+.insta-explore__hd-comments,
+.insta-explore__hd-video,
+.insta-explore__hd-related {
+	display: none;
+}
+
+.insta-explore__hidden-content {
+	padding: 2px;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-evenly;
+}
+
+.insta-explore__hidden-content span {
+	flex: 0 0 10em;
+}
+
+.insta-explore__hidden-content figure {
+	margin: 0 !important;
+	border: 1px solid bisque;
+	text-align: center;
+}
+
+.insta-explore__hidden-content figure span {
+	font-size:12px;
+	color:#919ca7;
+}
+
+.insta-explore__hidden-content figure img {
+	border-radius: 50%;
+}
+
+.insta-explore__hidden-content figcaption {
+	font-size: .7em;
+	line-height: 1.3em;
+	color: #919ca7;
+	font-weight: unset;
+}
+
+/*-----------------------------*/
+/* Cursor pointer sur les span de JQCloud */
+.insta-explore__container-jqcloud p {
+	font-size: 0.85em;
+	font-weight: 600;
+	color: #919ca7;
+	text-align: center;
+	display: none;
+	margin: 5px 0;
+	line-height: normal;
+}
+
+.insta-explore__jqcloud {
+	margin: 0 auto;
+	background-color: var(--eac-bg-jqcloud);
+}
+
+.insta-explore__jqcloud.jqcloud span {
+	cursor: pointer;
+}
+
+/*-----------------------------*/
+/* Formate chaque item */
+.insta-explore__item {
+	float: left;
+	line-height: 0;
+}
+
+/* Les icones likes, comments... */
+.insta-explore__content-head {
+	padding: 0 5px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.insta-explore__meta-items {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	height: 40px;
+}
+
+.insta-explore__meta-items .insta-explore__meta-item {
+	color: #919ca7;
+	font-size: 16px;
+	padding: 5px 0;
+}
+
+.insta-explore__meta-item.insta-explore__hashtags-count {
+	cursor: pointer;
+}
+
+.insta-explore__comments-icon,
+.insta-explore__likes-icon,
+.insta-explore__published-icon,
+.insta-explore__hashtags-icon {
+	margin-right: 2px;
+}
+
+/* Formate l'image */
+.insta-explore__item-image {
+	text-align: center;
+}
+
+.insta-explore__item-image img {
+	display: block;
+	max-width: 100%;
+	margin: 0 auto;
+}
+
+/*-----------------------------*/
+/* l'image du profile username */
+.insta-explore__username-picture img {
+	border-radius: 50%;
+	border: 2px solid crimson;
+}
+
+.insta-explore__username-picture a {
+	display: inline-block;
+}
+
+/*-----------------------------*/
+/* Les pictogrammes video, slideshow, link et download  */
+.insta-explore__head-icon {
+	display:flex;
+	flex-direction:row;
+	align-items:center;
+	justify-content:space-around;
+	height:40px;
+	line-height:0;
+}
+
+.insta-explore__slideshow-video,
+.insta-explore__download-video {
+	cursor: pointer;
+}
+
+.insta-explore__slideshow-icon,
+.insta-explore__video-icon {
+	display:block;
+	background-image:url(../images/instapictos.png);
+	background-repeat:no-repeat;
+}
+
+.insta-explore__slideshow-icon {
+	background-position:0 0;
+}
+
+.insta-explore__video-icon {
+	background-position:0 100%;
+	/*background-position: -34px 0;*/
+}
+
+.insta-explore__slideshow-icon,
+.insta-explore__video-icon,
+.insta-explore__link-icon,
+.insta-explore__download-video-icon {
+	display: inline-grid;
+	text-align: center;
+}
+
+.insta-explore__slideshow-icon,
+.insta-explore__video-icon,
+.insta-explore__link-icon,
+.insta-explore__download-video-icon,
+.insta-explore__username-picture {
+	height:32px;
+	width:32px;
+}
+
+.insta-explore__slideshow-icon:before,
+.insta-explore__video-icon:before,
+.insta-explore__link-icon:before,
+.insta-explore__download-video-icon:before {
+	content: '';
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.insta-explore__download-video-icon i {
+	color: #919CA7;
+}
+
+/*-----------------------------*/
+/* La checkbox */
+.insta-explore__container-cb {
+	margin-top: 10px;
+}
+
+.insta-explore__container-cb label {
+	border:1px solid #efefef;
+	padding:5px 10px;
+	font-size: 0.85em;
+	line-height: 1.3em;
+	color: #919ca7;
+	font-weight: unset;
+}
+
+.insta-explore__container-cb label input {
+	vertical-align: middle;
+	margin-top: -2px;
+}
+
+/*-----------------------------*/
+/* Formate le titre */
+.insta-explore__item-link-post {
+	text-align: center;
+}
+
+.insta-explore__item-link-post .insta-explore__item-titre {
+	font-size: 0.8em;
+	font-weight: 600;
+	margin: 5px 0;
+	line-height: 1.3em;
+}
+
+/* margin par défaut du contenu des items */
+.insta-explore__item-content {
+	margin: 5px;
+}
+
+/* Formate le résumé, la date et l'auteur */
+.insta-explore__item-content .insta-explore__item-description p, .insta-explore__item-date, .insta-explore__item-auteur {
+	font-size: 0.7em;
+	line-height: 1.3em;
+	color: #919ca7;
+	font-weight: unset;
+}
+
+.insta-explore__item-description {
+	margin: 0 3px 5px 3px;
+}
+
+.insta-explore__item-description::before {
+	content: '';
+	border-top: 1px solid #efefef;
+	display: block;
+	margin: 0 auto 5px;
+}
+
+.insta-explore__item-date, .insta-explore__item-auteur {
+	font-size: 0.6em;
+}
+
+.insta-explore__item-date i, .insta-explore__item-auteur i {
+	margin-right: 5px;
+	color: blue;
+	vertical-align: baseline;
+}
+
+/*-----------------------------*/
+/* Bouton next items */
+#insta-explore__read-button-next {
+	display: none;
+	margin: 0 auto;
+}
+
+/*-----------------------------*/
+/* Les styles */
+.insta-explore__item-content.style-0,
+.insta-explore__item-content.style-1,
+.insta-explore__item-content.style-2,
+.insta-explore__item-content.style-3,
+.insta-explore__item-content.style-4,
+.insta-explore__item-content.style-5,
+.insta-explore__item-content.style-6,
+.insta-explore__item-content.style-7,
+.insta-explore__item-content.style-8 {
+	background-color: #fff;
+}
+
+.insta-explore__item-content.style-0 {
+	/*border-bottom: 1px solid #efefef;*/
+}
+
+.insta-explore__item-content.style-1 {
+  padding: 5px;
+  border: solid 1px #EFEFEF;
+  -webkit-box-shadow: 1px 1px 5px #999;
+  box-shadow: 1px 1px 5px #999;
+}
+
+.insta-explore__item-content.style-2 {
+	-webkit-border-radius: 0px 0px 5px 5px;
+	border: 1px groove #4a164a;
+	-webkit-box-shadow: 1px 1px 5px 2px #656565;
+	box-shadow: 1px 1px 5px 2px #656565;
+}
+
+.insta-explore__item-content.style-3 {
+	-webkit-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
+}
+
+.insta-explore__item-content.style-4 {
+	-webkit-box-shadow: 0 20px 25px -12px rgba(0, 0, 0, 0.6);
+	box-shadow: 0 20px 25px -12px rgba(0, 0, 0, 0.6);
+}
+
+.insta-explore__item-content.style-5 {
+ -webkit-border-radius: 5px 5px 5px 5px;
+ border-radius: 5px 5px 5px 5px;
+ -webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.7);
+ box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.7);
+}
+
+.insta-explore__item-content.style-6 {
+	border: 5px solid;
+	border-image: radial-gradient(rgb(0,143,104), rgb(250,224,66)) 1;
+}
+
+.insta-explore__item-content.style-7 {
+	border: 5px solid;
+	border-image: linear-gradient(to bottom, #3acfd5 0%, #3a4ed5 100%) 1;
+}
+
+.insta-explore__item-content.style-8 {
+	border: 5px solid;
+	border-image: linear-gradient(45deg, rgb(0,143,104), rgb(250,224,66)) 1;
+}
+
+/**
+* 
+* Medias Queries pour les modes Masonry & Grid (grille)
+*
+*/
+/** Desktop et Widescreen */
+@media (min-width: 1200px) {
+	.responsive-1 .insta-explore .insta-explore__item,
+	.responsive-1 .insta-explore .insta-explore__item-sizer { width:100%; }
+	.responsive-2 .insta-explore .insta-explore__item,
+	.responsive-2 .insta-explore .insta-explore__item-sizer { width:50%; }
+	.responsive-3 .insta-explore .insta-explore__item,
+	.responsive-3 .insta-explore .insta-explore__item-sizer { width:33.3333%; }
+	.responsive-4 .insta-explore .insta-explore__item,
+	.responsive-4 .insta-explore .insta-explore__item-sizer { width:25%; }
+	.responsive-5 .insta-explore .insta-explore__item,
+	.responsive-5 .insta-explore .insta-explore__item-sizer { width:20%; }
+	.responsive-6 .insta-explore .insta-explore__item,
+	.responsive-6 .insta-explore .insta-explore__item-sizer { width:16.6666%; }
+}
+
+/** Tablet Extra @since 1.8.7 */
+@media (max-width: 1200px) {
+	.responsive-tablet_extra-1 .insta-explore .insta-explore__item,
+	.responsive-tablet_extra-1 .insta-explore .insta-explore__item-sizer { width:100%; }
+	.responsive-tablet_extra-2 .insta-explore .insta-explore__item,
+	.responsive-tablet_extra-2 .insta-explore .insta-explore__item-sizer { width:50%; }
+	.responsive-tablet_extra-3 .insta-explore .insta-explore__item,
+	.responsive-tablet_extra-3 .insta-explore .insta-explore__item-sizer { width:33.3333%; }
+	.responsive-tablet_extra-4 .insta-explore .insta-explore__item,
+	.responsive-tablet_extra-4 .insta-explore .insta-explore__item-sizer { width:25%; }
+	.responsive-tablet_extra-5 .insta-explore .insta-explore__item,
+	.responsive-tablet_extra-5 .insta-explore .insta-explore__item-sizer { width:20%; }
+	.responsive-tablet_extra-6 .insta-explore .insta-explore__item,
+	.responsive-tablet_extra-6 .insta-explore .insta-explore__item-sizer { width:16.6666%; }
+}
+
+/** Tablet */
+@media (max-width: 1024px) {
+	.responsive-tablet-1 .insta-explore .insta-explore__item,
+	.responsive-tablet-1 .insta-explore .insta-explore__item-sizer { width:100%; }
+	.responsive-tablet-2 .insta-explore .insta-explore__item,
+	.responsive-tablet-2 .insta-explore .insta-explore__item-sizer { width:50%; }
+	.responsive-tablet-3 .insta-explore .insta-explore__item,
+	.responsive-tablet-3 .insta-explore .insta-explore__item-sizer { width:33.3333%; }
+	.responsive-tablet-4 .insta-explore .insta-explore__item,
+	.responsive-tablet-4 .insta-explore .insta-explore__item-sizer { width:25%; }
+	.responsive-tablet-5 .insta-explore .insta-explore__item,
+	.responsive-tablet-5 .insta-explore .insta-explore__item-sizer { width:20%; }
+	.responsive-tablet-6 .insta-explore .insta-explore__item,
+	.responsive-tablet-6 .insta-explore .insta-explore__item-sizer { width:16.6666%; }
+}
+
+/** Mobile Extra @since 1.8.7 */
+@media (max-width: 880px) {
+	.responsive-mobile_extra-1 .insta-explore .insta-explore__item,
+	.responsive-mobile_extra-1 .insta-explore .insta-explore__item-sizer { width:100%; }
+	.responsive-mobile_extra-2 .insta-explore .insta-explore__item,
+	.responsive-mobile_extra-2 .insta-explore .insta-explore__item-sizer { width:50%; }
+	.responsive-mobile_extra-3 .insta-explore .insta-explore__item,
+	.responsive-mobile_extra-3 .insta-explore .insta-explore__item-sizer { width:33.3333%; }
+	.responsive-mobile_extra-4 .insta-explore .insta-explore__item,
+	.responsive-mobile_extra-4 .insta-explore .insta-explore__item-sizer { width:25%; }
+	.responsive-mobile_extra-5 .insta-explore .insta-explore__item,
+	.responsive-mobile_extra-5 .insta-explore .insta-explore__item-sizer { width:20%; }
+	.responsive-mobile_extra-6 .insta-explore .insta-explore__item,
+	.responsive-mobile_extra-6 .insta-explore .insta-explore__item-sizer { width:16.6666%; }
+}
+
+/** Mobile */
+@media (max-width: 767px) {
+	.responsive-mobile-1 .insta-explore .insta-explore__item,
+	.responsive-mobile-1 .insta-explore .insta-explore__item-sizer { width:100%; }
+	.responsive-mobile-2 .insta-explore .insta-explore__item,
+	.responsive-mobile-2 .insta-explore .insta-explore__item-sizer { width:50%; }
+	.responsive-mobile-3 .insta-explore .insta-explore__item,
+	.responsive-mobile-3 .insta-explore .insta-explore__item-sizer { width:33.3333%; }
+	.responsive-mobile-4 .insta-explore .insta-explore__item,
+	.responsive-mobile-4 .insta-explore .insta-explore__item-sizer { width:25%; }
+	.responsive-mobile-5 .insta-explore .insta-explore__item,
+	.responsive-mobile-5 .insta-explore .insta-explore__item-sizer { width:20%; }
+	.responsive-mobile-6 .insta-explore .insta-explore__item,
+	.responsive-mobile-6 .insta-explore .insta-explore__item-sizer { width:16.6666%; }
+}
+
+/* Mise en colonne des options, input, bouton... */
+@media (max-width: 667px) {
+	.insta-explore__select-item, .insta-explore__options-items-list { display: inline-block; }
+	.insta-explore__header { flex-direction: column; }
+	.insta-explore__header-content { margin-left: 0}
+	.insta-explore__header-img { margin-bottom: 10px; }
+	.insta-explore__header h3 { font-size: 1.2em; }
+	.insta-explore__comments-icon, .insta-explore__likes-icon, .insta-explore__videos-icon, .insta-explore__published-icon, .insta-explore__hashtags-icon { margin-right: 1px; }
+	.insta-explore__container-cb label { font-size: .75em; }
+	.insta-explore__container-jqcloud p { font-size: .55em; }
+	.insta-explore__hidden-content span { flex: 0 0 5em; }
+	.insta-explore__username-picture { width: 26px; }
+}

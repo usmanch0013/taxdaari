@@ -1,0 +1,89 @@
+
+.ip-wrapper {
+	background-color: #b98f1c;
+	min-height: 1px;
+}
+
+.ip-icone {
+	text-align: center;
+	margin: 20px auto;
+}
+
+.ip-image {
+	margin: 0px 10px 20px 10px !important;
+	padding-top: 10px;
+}
+
+.ip-wrapper .ip-title {
+	color: #FFF;
+	font-size: 1.8em;
+    font-weight: 600;
+	border-bottom: 1px solid #FFF;
+	margin-bottom: 15px;
+	text-align: center;
+	line-height: 1.3em;
+}
+
+.ip-description {
+	background-color: transparent !important;
+}
+
+.ip-title, .ip-description {
+	margin: 0 5px 20px 5px;
+}
+
+.ip-description .ip-description-item {
+    padding: 0;
+	font-size: 0.9em;
+	list-style:none;
+}
+
+.ip-description .ip-description-item .fa-check {
+	color: green;
+}
+
+.ip-description .ip-description-item .fa-times {
+	color: red;
+}
+
+.ip-description .ip-description-item > li {
+	color: #FFF;
+	line-height: 1.8em;
+	padding: .25rem .5rem !important;
+}
+
+.strike-item {
+    text-decoration: line-through;
+}
+
+.ip-prix {
+	margin:0 10px 20px 10px;
+	background-color: #e2bc74;
+	color: #FFF;
+	font-size: 1.5em;
+	text-align: center;
+	line-height: 1.3em;
+	border-radius: 3px;
+}
+
+.ip-button-wrapper {
+	text-align: center;
+}
+
+.ip-button-wrapper a {
+	text-decoration:none !important;
+}
+
+.ip-button {
+	display: inline-block !important;  /* Attention au ccs image-ribbon.css = .eac-image-promo span: display: block; */
+	color: #FFF;
+	font-size:0.9em;
+	background-color:#e2bc74;
+	padding:10px 25px;
+	margin-bottom:20px;
+	border-radius:3px;
+}
+
+.ip-button-wrapper .ip-button i {
+	margin-right: .35em;
+}
